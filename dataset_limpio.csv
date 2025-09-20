@@ -1,0 +1,3301 @@
+ENTIDAD,Año,Mes,Precio,Mes_num
+Nacional,2017,ENE,16.0,1
+Aguascalientes,2017,ENE,16.19,1
+Baja California,2017,ENE,16.07,1
+Baja California Sur,2017,ENE,16.11,1
+Campeche,2017,ENE,15.67,1
+Chiapas,2017,ENE,15.86,1
+Chihuahua,2017,ENE,16.04,1
+Ciudad de México,2017,ENE,16.32,1
+Coahuila de Zaragoza,2017,ENE,15.8,1
+Colima,2017,ENE,16.06,1
+Durango,2017,ENE,16.25,1
+Guanajuato,2017,ENE,16.1,1
+Guerrero,2017,ENE,16.03,1
+Hidalgo,2017,ENE,15.85,1
+Jalisco,2017,ENE,16.46,1
+Michoacán de Ocampo,2017,ENE,16.22,1
+Morelos,2017,ENE,15.91,1
+México,2017,ENE,16.16,1
+Nayarit,2017,ENE,16.31,1
+Nuevo León,2017,ENE,16.28,1
+Oaxaca,2017,ENE,15.86,1
+Puebla,2017,ENE,15.86,1
+Querétaro,2017,ENE,16.04,1
+Quintana Roo,2017,ENE,15.89,1
+San Luis Potosí,2017,ENE,15.85,1
+Sinaloa,2017,ENE,16.12,1
+Sonora,2017,ENE,16.12,1
+Tabasco,2017,ENE,15.57,1
+Tamaulipas,2017,ENE,15.16,1
+Tlaxcala,2017,ENE,15.79,1
+Veracruz de Ignacio de la Llave,2017,ENE,15.52,1
+Yucatán,2017,ENE,15.44,1
+Zacatecas,2017,ENE,16.19,1
+Nacional,2017,FEB,15.88,2
+Aguascalientes,2017,FEB,16.18,2
+Baja California,2017,FEB,16.04,2
+Baja California Sur,2017,FEB,16.07,2
+Campeche,2017,FEB,15.65,2
+Chiapas,2017,FEB,15.85,2
+Chihuahua,2017,FEB,14.26,2
+Ciudad de México,2017,FEB,16.29,2
+Coahuila de Zaragoza,2017,FEB,15.85,2
+Colima,2017,FEB,16.02,2
+Durango,2017,FEB,16.21,2
+Guanajuato,2017,FEB,16.06,2
+Guerrero,2017,FEB,16.02,2
+Hidalgo,2017,FEB,15.89,2
+Jalisco,2017,FEB,16.44,2
+Michoacán de Ocampo,2017,FEB,16.22,2
+Morelos,2017,FEB,15.88,2
+México,2017,FEB,16.13,2
+Nayarit,2017,FEB,16.29,2
+Nuevo León,2017,FEB,16.26,2
+Oaxaca,2017,FEB,15.86,2
+Puebla,2017,FEB,15.86,2
+Querétaro,2017,FEB,16.02,2
+Quintana Roo,2017,FEB,15.87,2
+San Luis Potosí,2017,FEB,15.82,2
+Sinaloa,2017,FEB,16.09,2
+Sonora,2017,FEB,16.14,2
+Tabasco,2017,FEB,15.56,2
+Tamaulipas,2017,FEB,15.19,2
+Tlaxcala,2017,FEB,15.8,2
+Veracruz de Ignacio de la Llave,2017,FEB,15.53,2
+Yucatán,2017,FEB,15.41,2
+Zacatecas,2017,FEB,16.21,2
+Nacional,2017,MAR,15.78,3
+Aguascalientes,2017,MAR,16.1,3
+Baja California,2017,MAR,15.85,3
+Baja California Sur,2017,MAR,16.0,3
+Campeche,2017,MAR,15.56,3
+Chiapas,2017,MAR,15.76,3
+Chihuahua,2017,MAR,14.76,3
+Ciudad de México,2017,MAR,16.21,3
+Coahuila de Zaragoza,2017,MAR,15.71,3
+Colima,2017,MAR,15.95,3
+Durango,2017,MAR,16.15,3
+Guanajuato,2017,MAR,16.0,3
+Guerrero,2017,MAR,15.98,3
+Hidalgo,2017,MAR,15.78,3
+Jalisco,2017,MAR,16.36,3
+Michoacán de Ocampo,2017,MAR,16.14,3
+Morelos,2017,MAR,15.81,3
+México,2017,MAR,16.05,3
+Nayarit,2017,MAR,16.23,3
+Nuevo León,2017,MAR,16.18,3
+Oaxaca,2017,MAR,15.77,3
+Puebla,2017,MAR,15.77,3
+Querétaro,2017,MAR,15.95,3
+Quintana Roo,2017,MAR,15.79,3
+San Luis Potosí,2017,MAR,15.76,3
+Sinaloa,2017,MAR,16.02,3
+Sonora,2017,MAR,15.77,3
+Tabasco,2017,MAR,15.49,3
+Tamaulipas,2017,MAR,14.15,3
+Tlaxcala,2017,MAR,15.7,3
+Veracruz de Ignacio de la Llave,2017,MAR,15.44,3
+Yucatán,2017,MAR,15.34,3
+Zacatecas,2017,MAR,16.12,3
+Nacional,2017,ABR,15.78,4
+Aguascalientes,2017,ABR,16.12,4
+Baja California,2017,ABR,15.87,4
+Baja California Sur,2017,ABR,16.02,4
+Campeche,2017,ABR,15.59,4
+Chiapas,2017,ABR,15.78,4
+Chihuahua,2017,ABR,14.74,4
+Ciudad de México,2017,ABR,16.2,4
+Coahuila de Zaragoza,2017,ABR,15.62,4
+Colima,2017,ABR,15.99,4
+Durango,2017,ABR,16.17,4
+Guanajuato,2017,ABR,16.03,4
+Guerrero,2017,ABR,15.99,4
+Hidalgo,2017,ABR,15.81,4
+Jalisco,2017,ABR,16.36,4
+Michoacán de Ocampo,2017,ABR,16.16,4
+Morelos,2017,ABR,15.84,4
+México,2017,ABR,16.06,4
+Nayarit,2017,ABR,16.25,4
+Nuevo León,2017,ABR,16.18,4
+Oaxaca,2017,ABR,15.79,4
+Puebla,2017,ABR,15.79,4
+Querétaro,2017,ABR,15.98,4
+Quintana Roo,2017,ABR,15.81,4
+San Luis Potosí,2017,ABR,15.78,4
+Sinaloa,2017,ABR,16.04,4
+Sonora,2017,ABR,15.67,4
+Tabasco,2017,ABR,15.52,4
+Tamaulipas,2017,ABR,13.87,4
+Tlaxcala,2017,ABR,15.72,4
+Veracruz de Ignacio de la Llave,2017,ABR,15.47,4
+Yucatán,2017,ABR,15.36,4
+Zacatecas,2017,ABR,16.14,4
+Nacional,2017,MAY,15.68,5
+Aguascalientes,2017,MAY,16.03,5
+Baja California,2017,MAY,15.83,5
+Baja California Sur,2017,MAY,15.93,5
+Campeche,2017,MAY,15.49,5
+Chiapas,2017,MAY,15.69,5
+Chihuahua,2017,MAY,14.66,5
+Ciudad de México,2017,MAY,16.08,5
+Coahuila de Zaragoza,2017,MAY,15.47,5
+Colima,2017,MAY,15.89,5
+Durango,2017,MAY,16.07,5
+Guanajuato,2017,MAY,15.93,5
+Guerrero,2017,MAY,15.9,5
+Hidalgo,2017,MAY,15.72,5
+Jalisco,2017,MAY,16.24,5
+Michoacán de Ocampo,2017,MAY,16.07,5
+Morelos,2017,MAY,15.75,5
+México,2017,MAY,15.94,5
+Nayarit,2017,MAY,16.16,5
+Nuevo León,2017,MAY,16.06,5
+Oaxaca,2017,MAY,15.7,5
+Puebla,2017,MAY,15.69,5
+Querétaro,2017,MAY,15.89,5
+Quintana Roo,2017,MAY,15.72,5
+San Luis Potosí,2017,MAY,15.69,5
+Sinaloa,2017,MAY,15.95,5
+Sonora,2017,MAY,15.57,5
+Tabasco,2017,MAY,15.42,5
+Tamaulipas,2017,MAY,13.72,5
+Tlaxcala,2017,MAY,15.62,5
+Veracruz de Ignacio de la Llave,2017,MAY,15.38,5
+Yucatán,2017,MAY,15.26,5
+Zacatecas,2017,MAY,16.05,5
+Nacional,2017,JUN,15.57,6
+Aguascalientes,2017,JUN,15.93,6
+Baja California,2017,JUN,15.81,6
+Baja California Sur,2017,JUN,15.83,6
+Campeche,2017,JUN,15.39,6
+Chiapas,2017,JUN,15.59,6
+Chihuahua,2017,JUN,14.62,6
+Ciudad de México,2017,JUN,15.95,6
+Coahuila de Zaragoza,2017,JUN,15.41,6
+Colima,2017,JUN,15.79,6
+Durango,2017,JUN,15.98,6
+Guanajuato,2017,JUN,15.83,6
+Guerrero,2017,JUN,15.79,6
+Hidalgo,2017,JUN,15.61,6
+Jalisco,2017,JUN,16.12,6
+Michoacán de Ocampo,2017,JUN,15.97,6
+Morelos,2017,JUN,15.65,6
+México,2017,JUN,15.83,6
+Nayarit,2017,JUN,16.07,6
+Nuevo León,2017,JUN,15.93,6
+Oaxaca,2017,JUN,15.6,6
+Puebla,2017,JUN,15.58,6
+Querétaro,2017,JUN,15.78,6
+Quintana Roo,2017,JUN,15.62,6
+San Luis Potosí,2017,JUN,15.59,6
+Sinaloa,2017,JUN,15.85,6
+Sonora,2017,JUN,15.45,6
+Tabasco,2017,JUN,15.33,6
+Tamaulipas,2017,JUN,13.51,6
+Tlaxcala,2017,JUN,15.52,6
+Veracruz de Ignacio de la Llave,2017,JUN,15.27,6
+Yucatán,2017,JUN,15.17,6
+Zacatecas,2017,JUN,15.96,6
+Nacional,2017,JUL,15.48,7
+Aguascalientes,2017,JUL,15.86,7
+Baja California,2017,JUL,15.71,7
+Baja California Sur,2017,JUL,15.75,7
+Campeche,2017,JUL,15.32,7
+Chiapas,2017,JUL,15.51,7
+Chihuahua,2017,JUL,14.49,7
+Ciudad de México,2017,JUL,15.86,7
+Coahuila de Zaragoza,2017,JUL,15.36,7
+Colima,2017,JUL,15.71,7
+Durango,2017,JUL,15.89,7
+Guanajuato,2017,JUL,15.75,7
+Guerrero,2017,JUL,15.71,7
+Hidalgo,2017,JUL,15.52,7
+Jalisco,2017,JUL,16.03,7
+Michoacán de Ocampo,2017,JUL,15.89,7
+Morelos,2017,JUL,15.56,7
+México,2017,JUL,15.74,7
+Nayarit,2017,JUL,15.99,7
+Nuevo León,2017,JUL,15.88,7
+Oaxaca,2017,JUL,15.51,7
+Puebla,2017,JUL,15.5,7
+Querétaro,2017,JUL,15.7,7
+Quintana Roo,2017,JUL,15.55,7
+San Luis Potosí,2017,JUL,15.5,7
+Sinaloa,2017,JUL,15.77,7
+Sonora,2017,JUL,15.33,7
+Tabasco,2017,JUL,15.25,7
+Tamaulipas,2017,JUL,13.33,7
+Tlaxcala,2017,JUL,15.45,7
+Veracruz de Ignacio de la Llave,2017,JUL,15.19,7
+Yucatán,2017,JUL,15.09,7
+Zacatecas,2017,JUL,15.87,7
+Nacional,2017,AGO,15.56,8
+Aguascalientes,2017,AGO,15.92,8
+Baja California,2017,AGO,15.8,8
+Baja California Sur,2017,AGO,15.82,8
+Campeche,2017,AGO,15.38,8
+Chiapas,2017,AGO,15.58,8
+Chihuahua,2017,AGO,14.49,8
+Ciudad de México,2017,AGO,15.92,8
+Coahuila de Zaragoza,2017,AGO,15.45,8
+Colima,2017,AGO,15.78,8
+Durango,2017,AGO,15.97,8
+Guanajuato,2017,AGO,15.82,8
+Guerrero,2017,AGO,15.78,8
+Hidalgo,2017,AGO,15.59,8
+Jalisco,2017,AGO,16.09,8
+Michoacán de Ocampo,2017,AGO,15.97,8
+Morelos,2017,AGO,15.63,8
+México,2017,AGO,15.8,8
+Nayarit,2017,AGO,16.06,8
+Nuevo León,2017,AGO,16.0,8
+Oaxaca,2017,AGO,15.59,8
+Puebla,2017,AGO,15.57,8
+Querétaro,2017,AGO,15.76,8
+Quintana Roo,2017,AGO,15.62,8
+San Luis Potosí,2017,AGO,15.58,8
+Sinaloa,2017,AGO,15.84,8
+Sonora,2017,AGO,15.4,8
+Tabasco,2017,AGO,15.32,8
+Tamaulipas,2017,AGO,13.36,8
+Tlaxcala,2017,AGO,15.52,8
+Veracruz de Ignacio de la Llave,2017,AGO,15.26,8
+Yucatán,2017,AGO,15.16,8
+Zacatecas,2017,AGO,15.94,8
+Nacional,2017,SEP,15.79,9
+Aguascalientes,2017,SEP,16.15,9
+Baja California,2017,SEP,15.98,9
+Baja California Sur,2017,SEP,16.04,9
+Campeche,2017,SEP,15.6,9
+Chiapas,2017,SEP,15.81,9
+Chihuahua,2017,SEP,14.83,9
+Ciudad de México,2017,SEP,16.14,9
+Coahuila de Zaragoza,2017,SEP,15.67,9
+Colima,2017,SEP,16.01,9
+Durango,2017,SEP,16.2,9
+Guanajuato,2017,SEP,16.05,9
+Guerrero,2017,SEP,16.01,9
+Hidalgo,2017,SEP,15.82,9
+Jalisco,2017,SEP,16.32,9
+Michoacán de Ocampo,2017,SEP,16.19,9
+Morelos,2017,SEP,15.85,9
+México,2017,SEP,16.03,9
+Nayarit,2017,SEP,16.28,9
+Nuevo León,2017,SEP,16.25,9
+Oaxaca,2017,SEP,15.81,9
+Puebla,2017,SEP,15.79,9
+Querétaro,2017,SEP,15.99,9
+Quintana Roo,2017,SEP,15.84,9
+San Luis Potosí,2017,SEP,15.8,9
+Sinaloa,2017,SEP,16.07,9
+Sonora,2017,SEP,15.63,9
+Tabasco,2017,SEP,15.55,9
+Tamaulipas,2017,SEP,13.56,9
+Tlaxcala,2017,SEP,15.74,9
+Veracruz de Ignacio de la Llave,2017,SEP,15.49,9
+Yucatán,2017,SEP,15.38,9
+Zacatecas,2017,SEP,16.16,9
+Nacional,2017,OCT,15.92,10
+Aguascalientes,2017,OCT,16.28,10
+Baja California,2017,OCT,16.12,10
+Baja California Sur,2017,OCT,16.17,10
+Campeche,2017,OCT,15.72,10
+Chiapas,2017,OCT,15.93,10
+Chihuahua,2017,OCT,14.98,10
+Ciudad de México,2017,OCT,16.26,10
+Coahuila de Zaragoza,2017,OCT,15.84,10
+Colima,2017,OCT,16.13,10
+Durango,2017,OCT,16.34,10
+Guanajuato,2017,OCT,16.17,10
+Guerrero,2017,OCT,16.14,10
+Hidalgo,2017,OCT,15.94,10
+Jalisco,2017,OCT,16.44,10
+Michoacán de Ocampo,2017,OCT,16.32,10
+Morelos,2017,OCT,15.98,10
+México,2017,OCT,16.15,10
+Nayarit,2017,OCT,16.4,10
+Nuevo León,2017,OCT,16.42,10
+Oaxaca,2017,OCT,15.93,10
+Puebla,2017,OCT,15.91,10
+Querétaro,2017,OCT,16.11,10
+Quintana Roo,2017,OCT,15.97,10
+San Luis Potosí,2017,OCT,15.93,10
+Sinaloa,2017,OCT,16.2,10
+Sonora,2017,OCT,15.79,10
+Tabasco,2017,OCT,15.67,10
+Tamaulipas,2017,OCT,13.68,10
+Tlaxcala,2017,OCT,15.87,10
+Veracruz de Ignacio de la Llave,2017,OCT,15.61,10
+Yucatán,2017,OCT,15.5,10
+Zacatecas,2017,OCT,16.29,10
+Nacional,2017,NOV,16.02,11
+Aguascalientes,2017,NOV,16.36,11
+Baja California,2017,NOV,16.27,11
+Baja California Sur,2017,NOV,16.34,11
+Campeche,2017,NOV,15.81,11
+Chiapas,2017,NOV,16.01,11
+Chihuahua,2017,NOV,15.11,11
+Ciudad de México,2017,NOV,16.35,11
+Coahuila de Zaragoza,2017,NOV,15.97,11
+Colima,2017,NOV,16.21,11
+Durango,2017,NOV,16.48,11
+Guanajuato,2017,NOV,16.26,11
+Guerrero,2017,NOV,16.22,11
+Hidalgo,2017,NOV,16.03,11
+Jalisco,2017,NOV,16.52,11
+Michoacán de Ocampo,2017,NOV,16.4,11
+Morelos,2017,NOV,16.07,11
+México,2017,NOV,16.23,11
+Nayarit,2017,NOV,16.49,11
+Nuevo León,2017,NOV,16.56,11
+Oaxaca,2017,NOV,16.01,11
+Puebla,2017,NOV,15.99,11
+Querétaro,2017,NOV,16.2,11
+Quintana Roo,2017,NOV,16.04,11
+San Luis Potosí,2017,NOV,16.01,11
+Sinaloa,2017,NOV,16.34,11
+Sonora,2017,NOV,15.92,11
+Tabasco,2017,NOV,15.75,11
+Tamaulipas,2017,NOV,13.76,11
+Tlaxcala,2017,NOV,15.95,11
+Veracruz de Ignacio de la Llave,2017,NOV,15.69,11
+Yucatán,2017,NOV,15.59,11
+Zacatecas,2017,NOV,16.37,11
+Nacional,2017,DIC,16.16,12
+Aguascalientes,2017,DIC,16.48,12
+Baja California,2017,DIC,16.38,12
+Baja California Sur,2017,DIC,16.55,12
+Campeche,2017,DIC,15.99,12
+Chiapas,2017,DIC,16.16,12
+Chihuahua,2017,DIC,15.29,12
+Ciudad de México,2017,DIC,16.45,12
+Coahuila de Zaragoza,2017,DIC,16.16,12
+Colima,2017,DIC,16.34,12
+Durango,2017,DIC,16.66,12
+Guanajuato,2017,DIC,16.39,12
+Guerrero,2017,DIC,16.35,12
+Hidalgo,2017,DIC,16.1,12
+Jalisco,2017,DIC,16.67,12
+Michoacán de Ocampo,2017,DIC,16.56,12
+Morelos,2017,DIC,16.18,12
+México,2017,DIC,16.35,12
+Nayarit,2017,DIC,16.71,12
+Nuevo León,2017,DIC,16.72,12
+Oaxaca,2017,DIC,16.18,12
+Puebla,2017,DIC,16.11,12
+Querétaro,2017,DIC,16.31,12
+Quintana Roo,2017,DIC,16.2,12
+San Luis Potosí,2017,DIC,16.2,12
+Sinaloa,2017,DIC,16.53,12
+Sonora,2017,DIC,16.05,12
+Tabasco,2017,DIC,15.86,12
+Tamaulipas,2017,DIC,13.9,12
+Tlaxcala,2017,DIC,16.03,12
+Veracruz de Ignacio de la Llave,2017,DIC,15.82,12
+Yucatán,2017,DIC,15.73,12
+Zacatecas,2017,DIC,16.57,12
+Nacional,2018,ENE,16.71,1
+Aguascalientes,2018,ENE,17.17,1
+Baja California,2018,ENE,16.8,1
+Baja California Sur,2018,ENE,16.97,1
+Campeche,2018,ENE,16.67,1
+Chiapas,2018,ENE,16.68,1
+Chihuahua,2018,ENE,15.8,1
+Ciudad de México,2018,ENE,17.07,1
+Coahuila de Zaragoza,2018,ENE,16.69,1
+Colima,2018,ENE,16.83,1
+Durango,2018,ENE,17.24,1
+Guanajuato,2018,ENE,17.03,1
+Guerrero,2018,ENE,16.92,1
+Hidalgo,2018,ENE,16.62,1
+Jalisco,2018,ENE,17.29,1
+Michoacán de Ocampo,2018,ENE,17.19,1
+Morelos,2018,ENE,16.78,1
+México,2018,ENE,16.91,1
+Nayarit,2018,ENE,17.3,1
+Nuevo León,2018,ENE,17.16,1
+Oaxaca,2018,ENE,16.78,1
+Puebla,2018,ENE,16.66,1
+Querétaro,2018,ENE,16.88,1
+Quintana Roo,2018,ENE,16.75,1
+San Luis Potosí,2018,ENE,16.85,1
+Sinaloa,2018,ENE,17.09,1
+Sonora,2018,ENE,16.43,1
+Tabasco,2018,ENE,16.42,1
+Tamaulipas,2018,ENE,14.4,1
+Tlaxcala,2018,ENE,16.6,1
+Veracruz de Ignacio de la Llave,2018,ENE,16.36,1
+Yucatán,2018,ENE,16.33,1
+Zacatecas,2018,ENE,17.28,1
+Nacional,2018,FEB,17.35,2
+Aguascalientes,2018,FEB,18.0,2
+Baja California,2018,FEB,17.31,2
+Baja California Sur,2018,FEB,17.37,2
+Campeche,2018,FEB,17.26,2
+Chiapas,2018,FEB,17.17,2
+Chihuahua,2018,FEB,16.39,2
+Ciudad de México,2018,FEB,17.85,2
+Coahuila de Zaragoza,2018,FEB,17.38,2
+Colima,2018,FEB,17.36,2
+Durango,2018,FEB,17.85,2
+Guanajuato,2018,FEB,17.73,2
+Guerrero,2018,FEB,17.53,2
+Hidalgo,2018,FEB,17.22,2
+Jalisco,2018,FEB,18.09,2
+Michoacán de Ocampo,2018,FEB,17.9,2
+Morelos,2018,FEB,17.43,2
+México,2018,FEB,17.62,2
+Nayarit,2018,FEB,17.95,2
+Nuevo León,2018,FEB,17.72,2
+Oaxaca,2018,FEB,17.38,2
+Puebla,2018,FEB,17.35,2
+Querétaro,2018,FEB,17.53,2
+Quintana Roo,2018,FEB,17.25,2
+San Luis Potosí,2018,FEB,17.57,2
+Sinaloa,2018,FEB,17.64,2
+Sonora,2018,FEB,16.98,2
+Tabasco,2018,FEB,17.03,2
+Tamaulipas,2018,FEB,15.07,2
+Tlaxcala,2018,FEB,17.29,2
+Veracruz de Ignacio de la Llave,2018,FEB,16.97,2
+Yucatán,2018,FEB,16.88,2
+Zacatecas,2018,FEB,18.11,2
+Nacional,2018,MAR,17.58,3
+Aguascalientes,2018,MAR,18.26,3
+Baja California,2018,MAR,17.53,3
+Baja California Sur,2018,MAR,17.58,3
+Campeche,2018,MAR,17.43,3
+Chiapas,2018,MAR,17.36,3
+Chihuahua,2018,MAR,16.52,3
+Ciudad de México,2018,MAR,18.11,3
+Coahuila de Zaragoza,2018,MAR,17.61,3
+Colima,2018,MAR,17.57,3
+Durango,2018,MAR,18.02,3
+Guanajuato,2018,MAR,17.98,3
+Guerrero,2018,MAR,17.76,3
+Hidalgo,2018,MAR,17.44,3
+Jalisco,2018,MAR,18.33,3
+Michoacán de Ocampo,2018,MAR,18.11,3
+Morelos,2018,MAR,17.66,3
+México,2018,MAR,17.86,3
+Nayarit,2018,MAR,18.19,3
+Nuevo León,2018,MAR,17.93,3
+Oaxaca,2018,MAR,17.64,3
+Puebla,2018,MAR,17.58,3
+Querétaro,2018,MAR,17.8,3
+Quintana Roo,2018,MAR,17.42,3
+San Luis Potosí,2018,MAR,17.79,3
+Sinaloa,2018,MAR,17.89,3
+Sonora,2018,MAR,17.22,3
+Tabasco,2018,MAR,17.29,3
+Tamaulipas,2018,MAR,15.27,3
+Tlaxcala,2018,MAR,17.51,3
+Veracruz de Ignacio de la Llave,2018,MAR,17.2,3
+Yucatán,2018,MAR,17.14,3
+Zacatecas,2018,MAR,18.36,3
+Nacional,2018,ABR,17.68,4
+Aguascalientes,2018,ABR,18.34,4
+Baja California,2018,ABR,17.67,4
+Baja California Sur,2018,ABR,17.67,4
+Campeche,2018,ABR,17.53,4
+Chiapas,2018,ABR,17.48,4
+Chihuahua,2018,ABR,16.48,4
+Ciudad de México,2018,ABR,18.21,4
+Coahuila de Zaragoza,2018,ABR,17.68,4
+Colima,2018,ABR,17.66,4
+Durango,2018,ABR,18.11,4
+Guanajuato,2018,ABR,18.07,4
+Guerrero,2018,ABR,17.86,4
+Hidalgo,2018,ABR,17.51,4
+Jalisco,2018,ABR,18.42,4
+Michoacán de Ocampo,2018,ABR,18.2,4
+Morelos,2018,ABR,17.75,4
+México,2018,ABR,17.96,4
+Nayarit,2018,ABR,18.3,4
+Nuevo León,2018,ABR,18.0,4
+Oaxaca,2018,ABR,17.75,4
+Puebla,2018,ABR,17.67,4
+Querétaro,2018,ABR,17.91,4
+Quintana Roo,2018,ABR,17.47,4
+San Luis Potosí,2018,ABR,17.86,4
+Sinaloa,2018,ABR,18.05,4
+Sonora,2018,ABR,17.37,4
+Tabasco,2018,ABR,17.42,4
+Tamaulipas,2018,ABR,15.4,4
+Tlaxcala,2018,ABR,17.59,4
+Veracruz de Ignacio de la Llave,2018,ABR,17.31,4
+Yucatán,2018,ABR,17.25,4
+Zacatecas,2018,ABR,18.47,4
+Nacional,2018,MAY,17.89,5
+Aguascalientes,2018,MAY,18.46,5
+Baja California,2018,MAY,17.81,5
+Baja California Sur,2018,MAY,17.85,5
+Campeche,2018,MAY,17.7,5
+Chiapas,2018,MAY,17.65,5
+Chihuahua,2018,MAY,16.89,5
+Ciudad de México,2018,MAY,18.49,5
+Coahuila de Zaragoza,2018,MAY,17.74,5
+Colima,2018,MAY,17.81,5
+Durango,2018,MAY,18.28,5
+Guanajuato,2018,MAY,18.21,5
+Guerrero,2018,MAY,18.04,5
+Hidalgo,2018,MAY,17.68,5
+Jalisco,2018,MAY,18.65,5
+Michoacán de Ocampo,2018,MAY,18.36,5
+Morelos,2018,MAY,17.92,5
+México,2018,MAY,18.18,5
+Nayarit,2018,MAY,18.47,5
+Nuevo León,2018,MAY,18.23,5
+Oaxaca,2018,MAY,17.91,5
+Puebla,2018,MAY,17.82,5
+Querétaro,2018,MAY,18.09,5
+Quintana Roo,2018,MAY,17.63,5
+San Luis Potosí,2018,MAY,18.03,5
+Sinaloa,2018,MAY,18.26,5
+Sonora,2018,MAY,17.64,5
+Tabasco,2018,MAY,17.53,5
+Tamaulipas,2018,MAY,15.74,5
+Tlaxcala,2018,MAY,17.74,5
+Veracruz de Ignacio de la Llave,2018,MAY,17.47,5
+Yucatán,2018,MAY,17.39,5
+Zacatecas,2018,MAY,18.59,5
+Nacional,2018,JUN,18.1,6
+Aguascalientes,2018,JUN,18.65,6
+Baja California,2018,JUN,18.08,6
+Baja California Sur,2018,JUN,18.11,6
+Campeche,2018,JUN,17.98,6
+Chiapas,2018,JUN,17.88,6
+Chihuahua,2018,JUN,16.75,6
+Ciudad de México,2018,JUN,18.79,6
+Coahuila de Zaragoza,2018,JUN,18.08,6
+Colima,2018,JUN,18.03,6
+Durango,2018,JUN,18.49,6
+Guanajuato,2018,JUN,18.42,6
+Guerrero,2018,JUN,18.3,6
+Hidalgo,2018,JUN,17.9,6
+Jalisco,2018,JUN,18.94,6
+Michoacán de Ocampo,2018,JUN,18.6,6
+Morelos,2018,JUN,18.16,6
+México,2018,JUN,18.45,6
+Nayarit,2018,JUN,18.69,6
+Nuevo León,2018,JUN,18.56,6
+Oaxaca,2018,JUN,18.15,6
+Puebla,2018,JUN,18.03,6
+Querétaro,2018,JUN,18.35,6
+Quintana Roo,2018,JUN,17.87,6
+San Luis Potosí,2018,JUN,18.25,6
+Sinaloa,2018,JUN,18.51,6
+Sonora,2018,JUN,17.8,6
+Tabasco,2018,JUN,17.8,6
+Tamaulipas,2018,JUN,15.76,6
+Tlaxcala,2018,JUN,17.97,6
+Veracruz de Ignacio de la Llave,2018,JUN,17.68,6
+Yucatán,2018,JUN,17.64,6
+Zacatecas,2018,JUN,18.79,6
+Nacional,2018,JUL,18.45,7
+Aguascalientes,2018,JUL,19.02,7
+Baja California,2018,JUL,18.49,7
+Baja California Sur,2018,JUL,18.47,7
+Campeche,2018,JUL,18.39,7
+Chiapas,2018,JUL,18.3,7
+Chihuahua,2018,JUL,17.14,7
+Ciudad de México,2018,JUL,19.01,7
+Coahuila de Zaragoza,2018,JUL,18.43,7
+Colima,2018,JUL,18.39,7
+Durango,2018,JUL,18.81,7
+Guanajuato,2018,JUL,18.83,7
+Guerrero,2018,JUL,18.73,7
+Hidalgo,2018,JUL,18.3,7
+Jalisco,2018,JUL,19.22,7
+Michoacán de Ocampo,2018,JUL,19.03,7
+Morelos,2018,JUL,18.56,7
+México,2018,JUL,18.75,7
+Nayarit,2018,JUL,19.11,7
+Nuevo León,2018,JUL,18.87,7
+Oaxaca,2018,JUL,18.54,7
+Puebla,2018,JUL,18.42,7
+Querétaro,2018,JUL,18.72,7
+Quintana Roo,2018,JUL,18.27,7
+San Luis Potosí,2018,JUL,18.56,7
+Sinaloa,2018,JUL,18.91,7
+Sonora,2018,JUL,18.19,7
+Tabasco,2018,JUL,18.15,7
+Tamaulipas,2018,JUL,16.04,7
+Tlaxcala,2018,JUL,18.38,7
+Veracruz de Ignacio de la Llave,2018,JUL,18.02,7
+Yucatán,2018,JUL,18.08,7
+Zacatecas,2018,JUL,19.16,7
+Nacional,2018,AGO,18.97,8
+Aguascalientes,2018,AGO,19.55,8
+Baja California,2018,AGO,19.03,8
+Baja California Sur,2018,AGO,19.05,8
+Campeche,2018,AGO,19.0,8
+Chiapas,2018,AGO,18.87,8
+Chihuahua,2018,AGO,17.68,8
+Ciudad de México,2018,AGO,19.34,8
+Coahuila de Zaragoza,2018,AGO,18.96,8
+Colima,2018,AGO,18.92,8
+Durango,2018,AGO,19.29,8
+Guanajuato,2018,AGO,19.43,8
+Guerrero,2018,AGO,19.25,8
+Hidalgo,2018,AGO,18.85,8
+Jalisco,2018,AGO,19.63,8
+Michoacán de Ocampo,2018,AGO,19.56,8
+Morelos,2018,AGO,19.12,8
+México,2018,AGO,19.15,8
+Nayarit,2018,AGO,19.65,8
+Nuevo León,2018,AGO,19.39,8
+Oaxaca,2018,AGO,19.09,8
+Puebla,2018,AGO,18.96,8
+Querétaro,2018,AGO,19.25,8
+Quintana Roo,2018,AGO,18.99,8
+San Luis Potosí,2018,AGO,19.04,8
+Sinaloa,2018,AGO,19.47,8
+Sonora,2018,AGO,18.71,8
+Tabasco,2018,AGO,18.62,8
+Tamaulipas,2018,AGO,16.56,8
+Tlaxcala,2018,AGO,18.93,8
+Veracruz de Ignacio de la Llave,2018,AGO,18.55,8
+Yucatán,2018,AGO,18.78,8
+Zacatecas,2018,AGO,19.69,8
+Nacional,2018,SEP,19.23,9
+Aguascalientes,2018,SEP,19.8,9
+Baja California,2018,SEP,19.36,9
+Baja California Sur,2018,SEP,19.34,9
+Campeche,2018,SEP,19.24,9
+Chiapas,2018,SEP,19.09,9
+Chihuahua,2018,SEP,17.96,9
+Ciudad de México,2018,SEP,19.6,9
+Coahuila de Zaragoza,2018,SEP,19.26,9
+Colima,2018,SEP,19.18,9
+Durango,2018,SEP,19.58,9
+Guanajuato,2018,SEP,19.7,9
+Guerrero,2018,SEP,19.47,9
+Hidalgo,2018,SEP,19.06,9
+Jalisco,2018,SEP,19.89,9
+Michoacán de Ocampo,2018,SEP,19.76,9
+Morelos,2018,SEP,19.34,9
+México,2018,SEP,19.38,9
+Nayarit,2018,SEP,19.89,9
+Nuevo León,2018,SEP,19.66,9
+Oaxaca,2018,SEP,19.32,9
+Puebla,2018,SEP,19.21,9
+Querétaro,2018,SEP,19.51,9
+Quintana Roo,2018,SEP,19.33,9
+San Luis Potosí,2018,SEP,19.3,9
+Sinaloa,2018,SEP,19.72,9
+Sonora,2018,SEP,18.95,9
+Tabasco,2018,SEP,18.81,9
+Tamaulipas,2018,SEP,16.88,9
+Tlaxcala,2018,SEP,19.13,9
+Veracruz de Ignacio de la Llave,2018,SEP,18.79,9
+Yucatán,2018,SEP,19.05,9
+Zacatecas,2018,SEP,19.94,9
+Nacional,2018,OCT,19.43,10
+Aguascalientes,2018,OCT,20.0,10
+Baja California,2018,OCT,19.57,10
+Baja California Sur,2018,OCT,19.56,10
+Campeche,2018,OCT,19.44,10
+Chiapas,2018,OCT,19.22,10
+Chihuahua,2018,OCT,18.15,10
+Ciudad de México,2018,OCT,19.86,10
+Coahuila de Zaragoza,2018,OCT,19.48,10
+Colima,2018,OCT,19.35,10
+Durango,2018,OCT,19.78,10
+Guanajuato,2018,OCT,19.93,10
+Guerrero,2018,OCT,19.66,10
+Hidalgo,2018,OCT,19.23,10
+Jalisco,2018,OCT,20.14,10
+Michoacán de Ocampo,2018,OCT,19.96,10
+Morelos,2018,OCT,19.53,10
+México,2018,OCT,19.6,10
+Nayarit,2018,OCT,20.09,10
+Nuevo León,2018,OCT,19.85,10
+Oaxaca,2018,OCT,19.52,10
+Puebla,2018,OCT,19.41,10
+Querétaro,2018,OCT,19.69,10
+Quintana Roo,2018,OCT,19.5,10
+San Luis Potosí,2018,OCT,19.52,10
+Sinaloa,2018,OCT,19.91,10
+Sonora,2018,OCT,19.13,10
+Tabasco,2018,OCT,18.97,10
+Tamaulipas,2018,OCT,17.07,10
+Tlaxcala,2018,OCT,19.32,10
+Veracruz de Ignacio de la Llave,2018,OCT,18.98,10
+Yucatán,2018,OCT,19.2,10
+Zacatecas,2018,OCT,20.12,10
+Nacional,2018,NOV,19.41,11
+Aguascalientes,2018,NOV,20.0,11
+Baja California,2018,NOV,19.61,11
+Baja California Sur,2018,NOV,19.63,11
+Campeche,2018,NOV,19.46,11
+Chiapas,2018,NOV,19.2,11
+Chihuahua,2018,NOV,17.95,11
+Ciudad de México,2018,NOV,19.9,11
+Coahuila de Zaragoza,2018,NOV,19.44,11
+Colima,2018,NOV,19.38,11
+Durango,2018,NOV,19.73,11
+Guanajuato,2018,NOV,19.96,11
+Guerrero,2018,NOV,19.56,11
+Hidalgo,2018,NOV,19.16,11
+Jalisco,2018,NOV,20.19,11
+Michoacán de Ocampo,2018,NOV,19.91,11
+Morelos,2018,NOV,19.51,11
+México,2018,NOV,19.59,11
+Nayarit,2018,NOV,20.13,11
+Nuevo León,2018,NOV,19.78,11
+Oaxaca,2018,NOV,19.51,11
+Puebla,2018,NOV,19.41,11
+Querétaro,2018,NOV,19.7,11
+Quintana Roo,2018,NOV,19.45,11
+San Luis Potosí,2018,NOV,19.47,11
+Sinaloa,2018,NOV,19.93,11
+Sonora,2018,NOV,19.13,11
+Tabasco,2018,NOV,18.91,11
+Tamaulipas,2018,NOV,16.92,11
+Tlaxcala,2018,NOV,19.31,11
+Veracruz de Ignacio de la Llave,2018,NOV,18.95,11
+Yucatán,2018,NOV,19.21,11
+Zacatecas,2018,NOV,20.1,11
+Nacional,2018,DIC,19.1,12
+Aguascalientes,2018,DIC,19.81,12
+Baja California,2018,DIC,19.4,12
+Baja California Sur,2018,DIC,19.53,12
+Campeche,2018,DIC,19.39,12
+Chiapas,2018,DIC,18.92,12
+Chihuahua,2018,DIC,17.54,12
+Ciudad de México,2018,DIC,19.75,12
+Coahuila de Zaragoza,2018,DIC,19.17,12
+Colima,2018,DIC,19.16,12
+Durango,2018,DIC,19.44,12
+Guanajuato,2018,DIC,19.68,12
+Guerrero,2018,DIC,19.23,12
+Hidalgo,2018,DIC,18.82,12
+Jalisco,2018,DIC,19.95,12
+Michoacán de Ocampo,2018,DIC,19.61,12
+Morelos,2018,DIC,19.29,12
+México,2018,DIC,19.39,12
+Nayarit,2018,DIC,19.98,12
+Nuevo León,2018,DIC,19.34,12
+Oaxaca,2018,DIC,19.26,12
+Puebla,2018,DIC,19.16,12
+Querétaro,2018,DIC,19.53,12
+Quintana Roo,2018,DIC,19.13,12
+San Luis Potosí,2018,DIC,19.17,12
+Sinaloa,2018,DIC,19.81,12
+Sonora,2018,DIC,18.93,12
+Tabasco,2018,DIC,18.63,12
+Tamaulipas,2018,DIC,16.48,12
+Tlaxcala,2018,DIC,18.92,12
+Veracruz de Ignacio de la Llave,2018,DIC,18.63,12
+Yucatán,2018,DIC,18.81,12
+Zacatecas,2018,DIC,19.82,12
+Nacional,2019,ENE,18.82,1
+Aguascalientes,2019,ENE,19.64,1
+Baja California,2019,ENE,18.04,1
+Baja California Sur,2019,ENE,19.27,1
+Campeche,2019,ENE,19.18,1
+Chiapas,2019,ENE,18.52,1
+Chihuahua,2019,ENE,16.83,1
+Ciudad de México,2019,ENE,19.63,1
+Coahuila de Zaragoza,2019,ENE,18.9,1
+Colima,2019,ENE,18.98,1
+Durango,2019,ENE,19.25,1
+Guanajuato,2019,ENE,19.72,1
+Guerrero,2019,ENE,19.05,1
+Hidalgo,2019,ENE,18.67,1
+Jalisco,2019,ENE,19.9,1
+Michoacán de Ocampo,2019,ENE,19.54,1
+Morelos,2019,ENE,19.08,1
+México,2019,ENE,19.39,1
+Nayarit,2019,ENE,19.94,1
+Nuevo León,2019,ENE,19.07,1
+Oaxaca,2019,ENE,19.06,1
+Puebla,2019,ENE,18.85,1
+Querétaro,2019,ENE,19.61,1
+Quintana Roo,2019,ENE,18.83,1
+San Luis Potosí,2019,ENE,18.92,1
+Sinaloa,2019,ENE,19.54,1
+Sonora,2019,ENE,18.29,1
+Tabasco,2019,ENE,18.15,1
+Tamaulipas,2019,ENE,15.96,1
+Tlaxcala,2019,ENE,18.55,1
+Veracruz de Ignacio de la Llave,2019,ENE,18.31,1
+Yucatán,2019,ENE,18.52,1
+Zacatecas,2019,ENE,19.63,1
+Nacional,2019,FEB,19.25,2
+Aguascalientes,2019,FEB,20.08,2
+Baja California,2019,FEB,18.17,2
+Baja California Sur,2019,FEB,19.59,2
+Campeche,2019,FEB,19.44,2
+Chiapas,2019,FEB,18.92,2
+Chihuahua,2019,FEB,17.31,2
+Ciudad de México,2019,FEB,19.96,2
+Coahuila de Zaragoza,2019,FEB,19.19,2
+Colima,2019,FEB,19.53,2
+Durango,2019,FEB,19.6,2
+Guanajuato,2019,FEB,20.18,2
+Guerrero,2019,FEB,19.62,2
+Hidalgo,2019,FEB,19.17,2
+Jalisco,2019,FEB,20.31,2
+Michoacán de Ocampo,2019,FEB,20.32,2
+Morelos,2019,FEB,19.44,2
+México,2019,FEB,19.76,2
+Nayarit,2019,FEB,20.33,2
+Nuevo León,2019,FEB,19.48,2
+Oaxaca,2019,FEB,19.55,2
+Puebla,2019,FEB,19.07,2
+Querétaro,2019,FEB,19.89,2
+Quintana Roo,2019,FEB,19.56,2
+San Luis Potosí,2019,FEB,19.36,2
+Sinaloa,2019,FEB,19.84,2
+Sonora,2019,FEB,18.84,2
+Tabasco,2019,FEB,18.2,2
+Tamaulipas,2019,FEB,16.58,2
+Tlaxcala,2019,FEB,19.01,2
+Veracruz de Ignacio de la Llave,2019,FEB,18.65,2
+Yucatán,2019,FEB,19.32,2
+Zacatecas,2019,FEB,19.91,2
+Nacional,2019,MAR,19.74,3
+Aguascalientes,2019,MAR,20.34,3
+Baja California,2019,MAR,18.56,3
+Baja California Sur,2019,MAR,20.38,3
+Campeche,2019,MAR,19.91,3
+Chiapas,2019,MAR,19.62,3
+Chihuahua,2019,MAR,17.84,3
+Ciudad de México,2019,MAR,20.52,3
+Coahuila de Zaragoza,2019,MAR,19.68,3
+Colima,2019,MAR,19.97,3
+Durango,2019,MAR,20.1,3
+Guanajuato,2019,MAR,20.54,3
+Guerrero,2019,MAR,20.08,3
+Hidalgo,2019,MAR,19.54,3
+Jalisco,2019,MAR,20.78,3
+Michoacán de Ocampo,2019,MAR,20.68,3
+Morelos,2019,MAR,19.82,3
+México,2019,MAR,20.3,3
+Nayarit,2019,MAR,20.79,3
+Nuevo León,2019,MAR,20.23,3
+Oaxaca,2019,MAR,20.1,3
+Puebla,2019,MAR,19.59,3
+Querétaro,2019,MAR,20.18,3
+Quintana Roo,2019,MAR,20.08,3
+San Luis Potosí,2019,MAR,19.77,3
+Sinaloa,2019,MAR,20.21,3
+Sonora,2019,MAR,19.34,3
+Tabasco,2019,MAR,18.88,3
+Tamaulipas,2019,MAR,17.02,3
+Tlaxcala,2019,MAR,19.61,3
+Veracruz de Ignacio de la Llave,2019,MAR,19.17,3
+Yucatán,2019,MAR,19.93,3
+Zacatecas,2019,MAR,20.23,3
+Nacional,2019,ABR,19.52,4
+Aguascalientes,2019,ABR,19.85,4
+Baja California,2019,ABR,18.49,4
+Baja California Sur,2019,ABR,20.39,4
+Campeche,2019,ABR,19.75,4
+Chiapas,2019,ABR,19.47,4
+Chihuahua,2019,ABR,17.49,4
+Ciudad de México,2019,ABR,20.49,4
+Coahuila de Zaragoza,2019,ABR,19.37,4
+Colima,2019,ABR,19.77,4
+Durango,2019,ABR,19.87,4
+Guanajuato,2019,ABR,20.26,4
+Guerrero,2019,ABR,19.88,4
+Hidalgo,2019,ABR,19.37,4
+Jalisco,2019,ABR,20.66,4
+Michoacán de Ocampo,2019,ABR,20.29,4
+Morelos,2019,ABR,19.71,4
+México,2019,ABR,20.21,4
+Nayarit,2019,ABR,20.69,4
+Nuevo León,2019,ABR,19.81,4
+Oaxaca,2019,ABR,20.12,4
+Puebla,2019,ABR,19.37,4
+Querétaro,2019,ABR,20.06,4
+Quintana Roo,2019,ABR,19.66,4
+San Luis Potosí,2019,ABR,19.52,4
+Sinaloa,2019,ABR,20.03,4
+Sonora,2019,ABR,19.09,4
+Tabasco,2019,ABR,18.73,4
+Tamaulipas,2019,ABR,16.62,4
+Tlaxcala,2019,ABR,19.39,4
+Veracruz de Ignacio de la Llave,2019,ABR,19.03,4
+Yucatán,2019,ABR,19.3,4
+Zacatecas,2019,ABR,19.92,4
+Nacional,2019,MAY,19.44,5
+Aguascalientes,2019,MAY,19.75,5
+Baja California,2019,MAY,18.43,5
+Baja California Sur,2019,MAY,20.4,5
+Campeche,2019,MAY,19.69,5
+Chiapas,2019,MAY,19.27,5
+Chihuahua,2019,MAY,17.2,5
+Ciudad de México,2019,MAY,20.52,5
+Coahuila de Zaragoza,2019,MAY,19.17,5
+Colima,2019,MAY,19.72,5
+Durango,2019,MAY,19.76,5
+Guanajuato,2019,MAY,20.12,5
+Guerrero,2019,MAY,19.83,5
+Hidalgo,2019,MAY,19.29,5
+Jalisco,2019,MAY,20.66,5
+Michoacán de Ocampo,2019,MAY,20.06,5
+Morelos,2019,MAY,19.65,5
+México,2019,MAY,20.16,5
+Nayarit,2019,MAY,20.59,5
+Nuevo León,2019,MAY,19.92,5
+Oaxaca,2019,MAY,20.11,5
+Puebla,2019,MAY,19.26,5
+Querétaro,2019,MAY,19.94,5
+Quintana Roo,2019,MAY,19.57,5
+San Luis Potosí,2019,MAY,19.45,5
+Sinaloa,2019,MAY,20.0,5
+Sonora,2019,MAY,19.1,5
+Tabasco,2019,MAY,18.56,5
+Tamaulipas,2019,MAY,16.29,5
+Tlaxcala,2019,MAY,19.34,5
+Veracruz de Ignacio de la Llave,2019,MAY,18.92,5
+Yucatán,2019,MAY,19.16,5
+Zacatecas,2019,MAY,19.82,5
+Nacional,2019,JUN,19.33,6
+Aguascalientes,2019,JUN,19.65,6
+Baja California,2019,JUN,18.34,6
+Baja California Sur,2019,JUN,20.43,6
+Campeche,2019,JUN,19.66,6
+Chiapas,2019,JUN,19.09,6
+Chihuahua,2019,JUN,17.23,6
+Ciudad de México,2019,JUN,20.39,6
+Coahuila de Zaragoza,2019,JUN,19.18,6
+Colima,2019,JUN,19.51,6
+Durango,2019,JUN,19.68,6
+Guanajuato,2019,JUN,20.0,6
+Guerrero,2019,JUN,19.64,6
+Hidalgo,2019,JUN,19.12,6
+Jalisco,2019,JUN,20.52,6
+Michoacán de Ocampo,2019,JUN,19.85,6
+Morelos,2019,JUN,19.51,6
+México,2019,JUN,19.98,6
+Nayarit,2019,JUN,20.36,6
+Nuevo León,2019,JUN,19.65,6
+Oaxaca,2019,JUN,19.98,6
+Puebla,2019,JUN,19.16,6
+Querétaro,2019,JUN,19.75,6
+Quintana Roo,2019,JUN,19.39,6
+San Luis Potosí,2019,JUN,19.31,6
+Sinaloa,2019,JUN,19.84,6
+Sonora,2019,JUN,18.97,6
+Tabasco,2019,JUN,18.39,6
+Tamaulipas,2019,JUN,16.16,6
+Tlaxcala,2019,JUN,19.11,6
+Veracruz de Ignacio de la Llave,2019,JUN,18.81,6
+Yucatán,2019,JUN,19.06,6
+Zacatecas,2019,JUN,19.73,6
+Nacional,2019,JUL,19.4,7
+Aguascalientes,2019,JUL,19.71,7
+Baja California,2019,JUL,18.37,7
+Baja California Sur,2019,JUL,20.56,7
+Campeche,2019,JUL,19.62,7
+Chiapas,2019,JUL,19.19,7
+Chihuahua,2019,JUL,17.22,7
+Ciudad de México,2019,JUL,20.47,7
+Coahuila de Zaragoza,2019,JUL,19.3,7
+Colima,2019,JUL,19.59,7
+Durango,2019,JUL,19.78,7
+Guanajuato,2019,JUL,20.11,7
+Guerrero,2019,JUL,19.77,7
+Hidalgo,2019,JUL,19.26,7
+Jalisco,2019,JUL,20.53,7
+Michoacán de Ocampo,2019,JUL,19.93,7
+Morelos,2019,JUL,19.55,7
+México,2019,JUL,20.0,7
+Nayarit,2019,JUL,20.27,7
+Nuevo León,2019,JUL,19.77,7
+Oaxaca,2019,JUL,20.1,7
+Puebla,2019,JUL,19.25,7
+Querétaro,2019,JUL,19.79,7
+Quintana Roo,2019,JUL,19.63,7
+San Luis Potosí,2019,JUL,19.31,7
+Sinaloa,2019,JUL,19.95,7
+Sonora,2019,JUL,18.96,7
+Tabasco,2019,JUL,18.45,7
+Tamaulipas,2019,JUL,16.27,7
+Tlaxcala,2019,JUL,19.26,7
+Veracruz de Ignacio de la Llave,2019,JUL,18.88,7
+Yucatán,2019,JUL,19.34,7
+Zacatecas,2019,JUL,19.77,7
+Nacional,2019,AGO,19.28,8
+Aguascalientes,2019,AGO,19.67,8
+Baja California,2019,AGO,18.17,8
+Baja California Sur,2019,AGO,20.59,8
+Campeche,2019,AGO,19.62,8
+Chiapas,2019,AGO,19.21,8
+Chihuahua,2019,AGO,17.02,8
+Ciudad de México,2019,AGO,20.31,8
+Coahuila de Zaragoza,2019,AGO,19.09,8
+Colima,2019,AGO,19.54,8
+Durango,2019,AGO,19.75,8
+Guanajuato,2019,AGO,20.05,8
+Guerrero,2019,AGO,19.7,8
+Hidalgo,2019,AGO,19.04,8
+Jalisco,2019,AGO,20.38,8
+Michoacán de Ocampo,2019,AGO,19.89,8
+Morelos,2019,AGO,19.44,8
+México,2019,AGO,19.84,8
+Nayarit,2019,AGO,20.16,8
+Nuevo León,2019,AGO,19.73,8
+Oaxaca,2019,AGO,20.06,8
+Puebla,2019,AGO,19.18,8
+Querétaro,2019,AGO,19.7,8
+Quintana Roo,2019,AGO,19.62,8
+San Luis Potosí,2019,AGO,19.17,8
+Sinaloa,2019,AGO,19.85,8
+Sonora,2019,AGO,18.62,8
+Tabasco,2019,AGO,18.35,8
+Tamaulipas,2019,AGO,15.9,8
+Tlaxcala,2019,AGO,19.23,8
+Veracruz de Ignacio de la Llave,2019,AGO,18.84,8
+Yucatán,2019,AGO,19.3,8
+Zacatecas,2019,AGO,19.7,8
+Nacional,2019,SEP,19.37,9
+Aguascalientes,2019,SEP,19.74,9
+Baja California,2019,SEP,18.2,9
+Baja California Sur,2019,SEP,20.64,9
+Campeche,2019,SEP,19.69,9
+Chiapas,2019,SEP,19.27,9
+Chihuahua,2019,SEP,17.26,9
+Ciudad de México,2019,SEP,20.32,9
+Coahuila de Zaragoza,2019,SEP,19.32,9
+Colima,2019,SEP,19.59,9
+Durango,2019,SEP,19.91,9
+Guanajuato,2019,SEP,20.13,9
+Guerrero,2019,SEP,19.9,9
+Hidalgo,2019,SEP,19.09,9
+Jalisco,2019,SEP,20.37,9
+Michoacán de Ocampo,2019,SEP,19.96,9
+Morelos,2019,SEP,19.44,9
+México,2019,SEP,19.83,9
+Nayarit,2019,SEP,20.25,9
+Nuevo León,2019,SEP,19.86,9
+Oaxaca,2019,SEP,20.14,9
+Puebla,2019,SEP,19.28,9
+Querétaro,2019,SEP,19.74,9
+Quintana Roo,2019,SEP,19.78,9
+San Luis Potosí,2019,SEP,19.36,9
+Sinaloa,2019,SEP,19.86,9
+Sonora,2019,SEP,18.83,9
+Tabasco,2019,SEP,18.46,9
+Tamaulipas,2019,SEP,16.27,9
+Tlaxcala,2019,SEP,19.33,9
+Veracruz de Ignacio de la Llave,2019,SEP,18.91,9
+Yucatán,2019,SEP,19.46,9
+Zacatecas,2019,SEP,19.8,9
+Nacional,2019,OCT,19.33,10
+Aguascalientes,2019,OCT,19.79,10
+Baja California,2019,OCT,18.09,10
+Baja California Sur,2019,OCT,20.64,10
+Campeche,2019,OCT,19.54,10
+Chiapas,2019,OCT,19.19,10
+Chihuahua,2019,OCT,17.06,10
+Ciudad de México,2019,OCT,20.26,10
+Coahuila de Zaragoza,2019,OCT,19.35,10
+Colima,2019,OCT,19.56,10
+Durango,2019,OCT,19.86,10
+Guanajuato,2019,OCT,20.12,10
+Guerrero,2019,OCT,19.81,10
+Hidalgo,2019,OCT,18.96,10
+Jalisco,2019,OCT,20.35,10
+Michoacán de Ocampo,2019,OCT,19.87,10
+Morelos,2019,OCT,19.34,10
+México,2019,OCT,19.75,10
+Nayarit,2019,OCT,20.14,10
+Nuevo León,2019,OCT,19.82,10
+Oaxaca,2019,OCT,20.1,10
+Puebla,2019,OCT,19.27,10
+Querétaro,2019,OCT,19.69,10
+Quintana Roo,2019,OCT,19.68,10
+San Luis Potosí,2019,OCT,19.33,10
+Sinaloa,2019,OCT,19.8,10
+Sonora,2019,OCT,19.13,10
+Tabasco,2019,OCT,18.39,10
+Tamaulipas,2019,OCT,16.39,10
+Tlaxcala,2019,OCT,19.32,10
+Veracruz de Ignacio de la Llave,2019,OCT,18.9,10
+Yucatán,2019,OCT,19.29,10
+Zacatecas,2019,OCT,19.74,10
+Nacional,2019,NOV,19.32,11
+Aguascalientes,2019,NOV,19.85,11
+Baja California,2019,NOV,18.0,11
+Baja California Sur,2019,NOV,20.64,11
+Campeche,2019,NOV,19.48,11
+Chiapas,2019,NOV,19.19,11
+Chihuahua,2019,NOV,16.98,11
+Ciudad de México,2019,NOV,20.29,11
+Coahuila de Zaragoza,2019,NOV,19.51,11
+Colima,2019,NOV,19.54,11
+Durango,2019,NOV,19.9,11
+Guanajuato,2019,NOV,20.16,11
+Guerrero,2019,NOV,19.88,11
+Hidalgo,2019,NOV,18.97,11
+Jalisco,2019,NOV,20.34,11
+Michoacán de Ocampo,2019,NOV,19.95,11
+Morelos,2019,NOV,19.32,11
+México,2019,NOV,19.77,11
+Nayarit,2019,NOV,20.16,11
+Nuevo León,2019,NOV,19.81,11
+Oaxaca,2019,NOV,20.08,11
+Puebla,2019,NOV,19.28,11
+Querétaro,2019,NOV,19.71,11
+Quintana Roo,2019,NOV,19.67,11
+San Luis Potosí,2019,NOV,19.37,11
+Sinaloa,2019,NOV,19.79,11
+Sonora,2019,NOV,18.8,11
+Tabasco,2019,NOV,18.34,11
+Tamaulipas,2019,NOV,16.33,11
+Tlaxcala,2019,NOV,19.33,11
+Veracruz de Ignacio de la Llave,2019,NOV,18.87,11
+Yucatán,2019,NOV,19.32,11
+Zacatecas,2019,NOV,19.73,11
+Nacional,2019,DIC,19.44,12
+Aguascalientes,2019,DIC,19.92,12
+Baja California,2019,DIC,18.0,12
+Baja California Sur,2019,DIC,20.68,12
+Campeche,2019,DIC,19.62,12
+Chiapas,2019,DIC,19.27,12
+Chihuahua,2019,DIC,17.28,12
+Ciudad de México,2019,DIC,20.45,12
+Coahuila de Zaragoza,2019,DIC,19.48,12
+Colima,2019,DIC,19.64,12
+Durango,2019,DIC,20.04,12
+Guanajuato,2019,DIC,20.21,12
+Guerrero,2019,DIC,20.03,12
+Hidalgo,2019,DIC,19.09,12
+Jalisco,2019,DIC,20.47,12
+Michoacán de Ocampo,2019,DIC,20.06,12
+Morelos,2019,DIC,19.47,12
+México,2019,DIC,19.93,12
+Nayarit,2019,DIC,20.29,12
+Nuevo León,2019,DIC,19.88,12
+Oaxaca,2019,DIC,20.15,12
+Puebla,2019,DIC,19.36,12
+Querétaro,2019,DIC,19.79,12
+Quintana Roo,2019,DIC,19.86,12
+San Luis Potosí,2019,DIC,19.5,12
+Sinaloa,2019,DIC,19.88,12
+Sonora,2019,DIC,18.99,12
+Tabasco,2019,DIC,18.5,12
+Tamaulipas,2019,DIC,16.52,12
+Tlaxcala,2019,DIC,19.4,12
+Veracruz de Ignacio de la Llave,2019,DIC,19.0,12
+Yucatán,2019,DIC,19.45,12
+Zacatecas,2019,DIC,19.89,12
+Nacional,2020,ENE,19.52,1
+Aguascalientes,2020,ENE,19.97,1
+Baja California,2020,ENE,18.3,1
+Baja California Sur,2020,ENE,20.76,1
+Campeche,2020,ENE,19.73,1
+Chiapas,2020,ENE,19.31,1
+Chihuahua,2020,ENE,17.38,1
+Ciudad de México,2020,ENE,20.6,1
+Coahuila de Zaragoza,2020,ENE,19.53,1
+Colima,2020,ENE,19.72,1
+Durango,2020,ENE,20.2,1
+Guanajuato,2020,ENE,20.28,1
+Guerrero,2020,ENE,20.15,1
+Hidalgo,2020,ENE,19.15,1
+Jalisco,2020,ENE,20.58,1
+Michoacán de Ocampo,2020,ENE,20.14,1
+Morelos,2020,ENE,19.59,1
+México,2020,ENE,20.03,1
+Nayarit,2020,ENE,20.25,1
+Nuevo León,2020,ENE,19.98,1
+Oaxaca,2020,ENE,20.14,1
+Puebla,2020,ENE,19.43,1
+Querétaro,2020,ENE,19.83,1
+Quintana Roo,2020,ENE,19.97,1
+San Luis Potosí,2020,ENE,19.61,1
+Sinaloa,2020,ENE,19.97,1
+Sonora,2020,ENE,18.8,1
+Tabasco,2020,ENE,18.62,1
+Tamaulipas,2020,ENE,16.7,1
+Tlaxcala,2020,ENE,19.47,1
+Veracruz de Ignacio de la Llave,2020,ENE,19.1,1
+Yucatán,2020,ENE,19.63,1
+Zacatecas,2020,ENE,19.93,1
+Nacional,2020,FEB,19.41,2
+Aguascalientes,2020,FEB,19.96,2
+Baja California,2020,FEB,18.37,2
+Baja California Sur,2020,FEB,20.7,2
+Campeche,2020,FEB,19.59,2
+Chiapas,2020,FEB,19.15,2
+Chihuahua,2020,FEB,17.16,2
+Ciudad de México,2020,FEB,20.45,2
+Coahuila de Zaragoza,2020,FEB,19.41,2
+Colima,2020,FEB,19.67,2
+Durango,2020,FEB,20.06,2
+Guanajuato,2020,FEB,20.19,2
+Guerrero,2020,FEB,20.01,2
+Hidalgo,2020,FEB,19.0,2
+Jalisco,2020,FEB,20.43,2
+Michoacán de Ocampo,2020,FEB,20.02,2
+Morelos,2020,FEB,19.54,2
+México,2020,FEB,19.89,2
+Nayarit,2020,FEB,20.26,2
+Nuevo León,2020,FEB,19.92,2
+Oaxaca,2020,FEB,20.13,2
+Puebla,2020,FEB,19.34,2
+Querétaro,2020,FEB,19.74,2
+Quintana Roo,2020,FEB,19.85,2
+San Luis Potosí,2020,FEB,19.5,2
+Sinaloa,2020,FEB,19.85,2
+Sonora,2020,FEB,18.95,2
+Tabasco,2020,FEB,18.55,2
+Tamaulipas,2020,FEB,16.56,2
+Tlaxcala,2020,FEB,19.32,2
+Veracruz de Ignacio de la Llave,2020,FEB,19.01,2
+Yucatán,2020,FEB,19.46,2
+Zacatecas,2020,FEB,19.79,2
+Nacional,2020,MAR,17.8,3
+Aguascalientes,2020,MAR,18.39,3
+Baja California,2020,MAR,17.18,3
+Baja California Sur,2020,MAR,18.91,3
+Campeche,2020,MAR,18.61,3
+Chiapas,2020,MAR,17.8,3
+Chihuahua,2020,MAR,15.23,3
+Ciudad de México,2020,MAR,18.85,3
+Coahuila de Zaragoza,2020,MAR,17.67,3
+Colima,2020,MAR,17.62,3
+Durango,2020,MAR,18.57,3
+Guanajuato,2020,MAR,18.38,3
+Guerrero,2020,MAR,18.29,3
+Hidalgo,2020,MAR,17.07,3
+Jalisco,2020,MAR,18.87,3
+Michoacán de Ocampo,2020,MAR,17.92,3
+Morelos,2020,MAR,17.96,3
+México,2020,MAR,18.14,3
+Nayarit,2020,MAR,19.2,3
+Nuevo León,2020,MAR,18.3,3
+Oaxaca,2020,MAR,18.53,3
+Puebla,2020,MAR,17.64,3
+Querétaro,2020,MAR,17.91,3
+Quintana Roo,2020,MAR,18.38,3
+San Luis Potosí,2020,MAR,17.52,3
+Sinaloa,2020,MAR,17.88,3
+Sonora,2020,MAR,17.85,3
+Tabasco,2020,MAR,17.77,3
+Tamaulipas,2020,MAR,15.25,3
+Tlaxcala,2020,MAR,17.48,3
+Veracruz de Ignacio de la Llave,2020,MAR,17.4,3
+Yucatán,2020,MAR,17.95,3
+Zacatecas,2020,MAR,18.62,3
+Nacional,2020,ABR,15.1,4
+Aguascalientes,2020,ABR,15.36,4
+Baja California,2020,ABR,14.19,4
+Baja California Sur,2020,ABR,15.92,4
+Campeche,2020,ABR,16.02,4
+Chiapas,2020,ABR,15.28,4
+Chihuahua,2020,ABR,12.91,4
+Ciudad de México,2020,ABR,15.56,4
+Coahuila de Zaragoza,2020,ABR,15.16,4
+Colima,2020,ABR,15.02,4
+Durango,2020,ABR,15.93,4
+Guanajuato,2020,ABR,15.43,4
+Guerrero,2020,ABR,15.74,4
+Hidalgo,2020,ABR,14.31,4
+Jalisco,2020,ABR,16.02,4
+Michoacán de Ocampo,2020,ABR,15.39,4
+Morelos,2020,ABR,14.86,4
+México,2020,ABR,14.95,4
+Nayarit,2020,ABR,16.48,4
+Nuevo León,2020,ABR,15.91,4
+Oaxaca,2020,ABR,16.17,4
+Puebla,2020,ABR,14.6,4
+Querétaro,2020,ABR,14.79,4
+Quintana Roo,2020,ABR,16.16,4
+San Luis Potosí,2020,ABR,14.57,4
+Sinaloa,2020,ABR,15.68,4
+Sonora,2020,ABR,15.47,4
+Tabasco,2020,ABR,15.08,4
+Tamaulipas,2020,ABR,13.15,4
+Tlaxcala,2020,ABR,14.51,4
+Veracruz de Ignacio de la Llave,2020,ABR,14.75,4
+Yucatán,2020,ABR,15.75,4
+Zacatecas,2020,ABR,15.88,4
+Nacional,2020,MAY,16.27,5
+Aguascalientes,2020,MAY,16.57,5
+Baja California,2020,MAY,15.53,5
+Baja California Sur,2020,MAY,17.31,5
+Campeche,2020,MAY,16.72,5
+Chiapas,2020,MAY,16.18,5
+Chihuahua,2020,MAY,14.26,5
+Ciudad de México,2020,MAY,16.87,5
+Coahuila de Zaragoza,2020,MAY,15.89,5
+Colima,2020,MAY,16.53,5
+Durango,2020,MAY,16.85,5
+Guanajuato,2020,MAY,16.49,5
+Guerrero,2020,MAY,17.09,5
+Hidalgo,2020,MAY,15.76,5
+Jalisco,2020,MAY,17.06,5
+Michoacán de Ocampo,2020,MAY,16.97,5
+Morelos,2020,MAY,16.18,5
+México,2020,MAY,16.35,5
+Nayarit,2020,MAY,17.34,5
+Nuevo León,2020,MAY,16.61,5
+Oaxaca,2020,MAY,17.11,5
+Puebla,2020,MAY,15.86,5
+Querétaro,2020,MAY,16.13,5
+Quintana Roo,2020,MAY,16.91,5
+San Luis Potosí,2020,MAY,16.28,5
+Sinaloa,2020,MAY,17.39,5
+Sonora,2020,MAY,16.88,5
+Tabasco,2020,MAY,15.72,5
+Tamaulipas,2020,MAY,13.86,5
+Tlaxcala,2020,MAY,15.94,5
+Veracruz de Ignacio de la Llave,2020,MAY,15.85,5
+Yucatán,2020,MAY,16.87,5
+Zacatecas,2020,MAY,16.57,5
+Nacional,2020,JUN,17.65,6
+Aguascalientes,2020,JUN,18.01,6
+Baja California,2020,JUN,17.15,6
+Baja California Sur,2020,JUN,18.95,6
+Campeche,2020,JUN,18.24,6
+Chiapas,2020,JUN,17.57,6
+Chihuahua,2020,JUN,15.77,6
+Ciudad de México,2020,JUN,18.25,6
+Coahuila de Zaragoza,2020,JUN,16.95,6
+Colima,2020,JUN,17.92,6
+Durango,2020,JUN,18.22,6
+Guanajuato,2020,JUN,17.92,6
+Guerrero,2020,JUN,18.49,6
+Hidalgo,2020,JUN,17.28,6
+Jalisco,2020,JUN,18.37,6
+Michoacán de Ocampo,2020,JUN,18.4,6
+Morelos,2020,JUN,17.65,6
+México,2020,JUN,17.76,6
+Nayarit,2020,JUN,18.63,6
+Nuevo León,2020,JUN,17.69,6
+Oaxaca,2020,JUN,18.41,6
+Puebla,2020,JUN,17.33,6
+Querétaro,2020,JUN,17.63,6
+Quintana Roo,2020,JUN,18.45,6
+San Luis Potosí,2020,JUN,17.75,6
+Sinaloa,2020,JUN,18.62,6
+Sonora,2020,JUN,18.38,6
+Tabasco,2020,JUN,17.03,6
+Tamaulipas,2020,JUN,15.05,6
+Tlaxcala,2020,JUN,17.42,6
+Veracruz de Ignacio de la Llave,2020,JUN,17.22,6
+Yucatán,2020,JUN,18.18,6
+Zacatecas,2020,JUN,17.88,6
+Nacional,2020,JUL,18.6,7
+Aguascalientes,2020,JUL,19.2,7
+Baja California,2020,JUL,17.94,7
+Baja California Sur,2020,JUL,19.67,7
+Campeche,2020,JUL,19.34,7
+Chiapas,2020,JUL,18.64,7
+Chihuahua,2020,JUL,16.56,7
+Ciudad de México,2020,JUL,19.26,7
+Coahuila de Zaragoza,2020,JUL,17.91,7
+Colima,2020,JUL,18.64,7
+Durango,2020,JUL,19.08,7
+Guanajuato,2020,JUL,19.0,7
+Guerrero,2020,JUL,19.43,7
+Hidalgo,2020,JUL,18.4,7
+Jalisco,2020,JUL,19.39,7
+Michoacán de Ocampo,2020,JUL,19.21,7
+Morelos,2020,JUL,18.61,7
+México,2020,JUL,18.78,7
+Nayarit,2020,JUL,19.38,7
+Nuevo León,2020,JUL,18.8,7
+Oaxaca,2020,JUL,19.33,7
+Puebla,2020,JUL,18.34,7
+Querétaro,2020,JUL,18.69,7
+Quintana Roo,2020,JUL,19.3,7
+San Luis Potosí,2020,JUL,18.52,7
+Sinaloa,2020,JUL,19.4,7
+Sonora,2020,JUL,19.14,7
+Tabasco,2020,JUL,18.06,7
+Tamaulipas,2020,JUL,15.93,7
+Tlaxcala,2020,JUL,18.32,7
+Veracruz de Ignacio de la Llave,2020,JUL,18.25,7
+Yucatán,2020,JUL,18.94,7
+Zacatecas,2020,JUL,18.92,7
+Nacional,2020,AGO,18.6,8
+Aguascalientes,2020,AGO,19.3,8
+Baja California,2020,AGO,17.85,8
+Baja California Sur,2020,AGO,19.51,8
+Campeche,2020,AGO,19.43,8
+Chiapas,2020,AGO,18.61,8
+Chihuahua,2020,AGO,16.36,8
+Ciudad de México,2020,AGO,19.25,8
+Coahuila de Zaragoza,2020,AGO,18.17,8
+Colima,2020,AGO,18.74,8
+Durango,2020,AGO,19.08,8
+Guanajuato,2020,AGO,19.03,8
+Guerrero,2020,AGO,19.52,8
+Hidalgo,2020,AGO,18.34,8
+Jalisco,2020,AGO,19.35,8
+Michoacán de Ocampo,2020,AGO,19.12,8
+Morelos,2020,AGO,18.58,8
+México,2020,AGO,18.74,8
+Nayarit,2020,AGO,19.3,8
+Nuevo León,2020,AGO,19.02,8
+Oaxaca,2020,AGO,19.37,8
+Puebla,2020,AGO,18.25,8
+Querétaro,2020,AGO,18.63,8
+Quintana Roo,2020,AGO,19.39,8
+San Luis Potosí,2020,AGO,18.41,8
+Sinaloa,2020,AGO,19.23,8
+Sonora,2020,AGO,18.94,8
+Tabasco,2020,AGO,18.08,8
+Tamaulipas,2020,AGO,16.12,8
+Tlaxcala,2020,AGO,18.24,8
+Veracruz de Ignacio de la Llave,2020,AGO,18.3,8
+Yucatán,2020,AGO,19.01,8
+Zacatecas,2020,AGO,19.02,8
+Nacional,2020,SEP,18.53,9
+Aguascalientes,2020,SEP,19.08,9
+Baja California,2020,SEP,17.71,9
+Baja California Sur,2020,SEP,19.54,9
+Campeche,2020,SEP,19.31,9
+Chiapas,2020,SEP,18.76,9
+Chihuahua,2020,SEP,16.58,9
+Ciudad de México,2020,SEP,19.07,9
+Coahuila de Zaragoza,2020,SEP,18.17,9
+Colima,2020,SEP,18.77,9
+Durango,2020,SEP,19.12,9
+Guanajuato,2020,SEP,18.87,9
+Guerrero,2020,SEP,19.45,9
+Hidalgo,2020,SEP,18.22,9
+Jalisco,2020,SEP,19.21,9
+Michoacán de Ocampo,2020,SEP,19.01,9
+Morelos,2020,SEP,18.48,9
+México,2020,SEP,18.58,9
+Nayarit,2020,SEP,19.24,9
+Nuevo León,2020,SEP,19.07,9
+Oaxaca,2020,SEP,19.34,9
+Puebla,2020,SEP,18.11,9
+Querétaro,2020,SEP,18.5,9
+Quintana Roo,2020,SEP,19.53,9
+San Luis Potosí,2020,SEP,18.41,9
+Sinaloa,2020,SEP,19.22,9
+Sonora,2020,SEP,18.85,9
+Tabasco,2020,SEP,18.1,9
+Tamaulipas,2020,SEP,16.21,9
+Tlaxcala,2020,SEP,18.15,9
+Veracruz de Ignacio de la Llave,2020,SEP,18.29,9
+Yucatán,2020,SEP,19.13,9
+Zacatecas,2020,SEP,19.02,9
+Nacional,2020,OCT,18.39,10
+Aguascalientes,2020,OCT,18.68,10
+Baja California,2020,OCT,17.38,10
+Baja California Sur,2020,OCT,19.39,10
+Campeche,2020,OCT,19.22,10
+Chiapas,2020,OCT,18.72,10
+Chihuahua,2020,OCT,16.43,10
+Ciudad de México,2020,OCT,18.93,10
+Coahuila de Zaragoza,2020,OCT,18.15,10
+Colima,2020,OCT,18.47,10
+Durango,2020,OCT,18.83,10
+Guanajuato,2020,OCT,18.6,10
+Guerrero,2020,OCT,19.36,10
+Hidalgo,2020,OCT,17.99,10
+Jalisco,2020,OCT,19.04,10
+Michoacán de Ocampo,2020,OCT,18.87,10
+Morelos,2020,OCT,18.28,10
+México,2020,OCT,18.37,10
+Nayarit,2020,OCT,19.0,10
+Nuevo León,2020,OCT,19.02,10
+Oaxaca,2020,OCT,19.3,10
+Puebla,2020,OCT,17.98,10
+Querétaro,2020,OCT,18.25,10
+Quintana Roo,2020,OCT,19.57,10
+San Luis Potosí,2020,OCT,18.34,10
+Sinaloa,2020,OCT,19.06,10
+Sonora,2020,OCT,18.8,10
+Tabasco,2020,OCT,17.88,10
+Tamaulipas,2020,OCT,16.0,10
+Tlaxcala,2020,OCT,18.07,10
+Veracruz de Ignacio de la Llave,2020,OCT,18.1,10
+Yucatán,2020,OCT,19.24,10
+Zacatecas,2020,OCT,18.84,10
+Nacional,2020,NOV,17.72,11
+Aguascalientes,2020,NOV,17.94,11
+Baja California,2020,NOV,16.39,11
+Baja California Sur,2020,NOV,18.74,11
+Campeche,2020,NOV,18.83,11
+Chiapas,2020,NOV,18.29,11
+Chihuahua,2020,NOV,15.77,11
+Ciudad de México,2020,NOV,18.15,11
+Coahuila de Zaragoza,2020,NOV,17.5,11
+Colima,2020,NOV,17.65,11
+Durango,2020,NOV,18.21,11
+Guanajuato,2020,NOV,17.92,11
+Guerrero,2020,NOV,18.88,11
+Hidalgo,2020,NOV,17.23,11
+Jalisco,2020,NOV,18.29,11
+Michoacán de Ocampo,2020,NOV,18.15,11
+Morelos,2020,NOV,17.57,11
+México,2020,NOV,17.58,11
+Nayarit,2020,NOV,18.31,11
+Nuevo León,2020,NOV,18.53,11
+Oaxaca,2020,NOV,18.86,11
+Puebla,2020,NOV,17.31,11
+Querétaro,2020,NOV,17.27,11
+Quintana Roo,2020,NOV,19.01,11
+San Luis Potosí,2020,NOV,17.66,11
+Sinaloa,2020,NOV,18.25,11
+Sonora,2020,NOV,17.98,11
+Tabasco,2020,NOV,17.42,11
+Tamaulipas,2020,NOV,15.72,11
+Tlaxcala,2020,NOV,17.59,11
+Veracruz de Ignacio de la Llave,2020,NOV,17.7,11
+Yucatán,2020,NOV,18.59,11
+Zacatecas,2020,NOV,18.46,11
+Nacional,2020,DIC,17.92,12
+Aguascalientes,2020,DIC,18.18,12
+Baja California,2020,DIC,16.58,12
+Baja California Sur,2020,DIC,18.65,12
+Campeche,2020,DIC,18.89,12
+Chiapas,2020,DIC,18.42,12
+Chihuahua,2020,DIC,16.14,12
+Ciudad de México,2020,DIC,18.35,12
+Coahuila de Zaragoza,2020,DIC,17.58,12
+Colima,2020,DIC,17.77,12
+Durango,2020,DIC,18.38,12
+Guanajuato,2020,DIC,18.11,12
+Guerrero,2020,DIC,19.1,12
+Hidalgo,2020,DIC,17.58,12
+Jalisco,2020,DIC,18.44,12
+Michoacán de Ocampo,2020,DIC,18.46,12
+Morelos,2020,DIC,17.82,12
+México,2020,DIC,17.83,12
+Nayarit,2020,DIC,18.51,12
+Nuevo León,2020,DIC,18.71,12
+Oaxaca,2020,DIC,19.14,12
+Puebla,2020,DIC,17.58,12
+Querétaro,2020,DIC,17.57,12
+Quintana Roo,2020,DIC,19.21,12
+San Luis Potosí,2020,DIC,18.06,12
+Sinaloa,2020,DIC,18.25,12
+Sonora,2020,DIC,17.96,12
+Tabasco,2020,DIC,17.5,12
+Tamaulipas,2020,DIC,16.02,12
+Tlaxcala,2020,DIC,17.73,12
+Veracruz de Ignacio de la Llave,2020,DIC,17.87,12
+Yucatán,2020,DIC,18.75,12
+Zacatecas,2020,DIC,18.49,12
+Nacional,2021,ENE,18.93,1
+Aguascalientes,2021,ENE,19.27,1
+Baja California,2021,ENE,17.84,1
+Baja California Sur,2021,ENE,19.76,1
+Campeche,2021,ENE,19.82,1
+Chiapas,2021,ENE,19.07,1
+Chihuahua,2021,ENE,17.36,1
+Ciudad de México,2021,ENE,19.54,1
+Coahuila de Zaragoza,2021,ENE,18.31,1
+Colima,2021,ENE,18.89,1
+Durango,2021,ENE,19.42,1
+Guanajuato,2021,ENE,19.18,1
+Guerrero,2021,ENE,20.04,1
+Hidalgo,2021,ENE,18.76,1
+Jalisco,2021,ENE,19.42,1
+Michoacán de Ocampo,2021,ENE,19.63,1
+Morelos,2021,ENE,18.96,1
+México,2021,ENE,18.97,1
+Nayarit,2021,ENE,19.52,1
+Nuevo León,2021,ENE,19.51,1
+Oaxaca,2021,ENE,20.08,1
+Puebla,2021,ENE,18.69,1
+Querétaro,2021,ENE,18.73,1
+Quintana Roo,2021,ENE,20.08,1
+San Luis Potosí,2021,ENE,19.14,1
+Sinaloa,2021,ENE,19.18,1
+Sonora,2021,ENE,18.91,1
+Tabasco,2021,ENE,18.62,1
+Tamaulipas,2021,ENE,16.74,1
+Tlaxcala,2021,ENE,18.81,1
+Veracruz de Ignacio de la Llave,2021,ENE,18.84,1
+Yucatán,2021,ENE,19.6,1
+Zacatecas,2021,ENE,19.29,1
+Nacional,2021,FEB,19.75,2
+Aguascalientes,2021,FEB,20.17,2
+Baja California,2021,FEB,18.78,2
+Baja California Sur,2021,FEB,20.6,2
+Campeche,2021,FEB,20.69,2
+Chiapas,2021,FEB,19.74,2
+Chihuahua,2021,FEB,18.17,2
+Ciudad de México,2021,FEB,20.51,2
+Coahuila de Zaragoza,2021,FEB,19.14,2
+Colima,2021,FEB,19.72,2
+Durango,2021,FEB,20.25,2
+Guanajuato,2021,FEB,20.07,2
+Guerrero,2021,FEB,20.76,2
+Hidalgo,2021,FEB,19.66,2
+Jalisco,2021,FEB,20.21,2
+Michoacán de Ocampo,2021,FEB,20.4,2
+Morelos,2021,FEB,19.81,2
+México,2021,FEB,19.92,2
+Nayarit,2021,FEB,20.25,2
+Nuevo León,2021,FEB,20.21,2
+Oaxaca,2021,FEB,20.8,2
+Puebla,2021,FEB,19.57,2
+Querétaro,2021,FEB,19.63,2
+Quintana Roo,2021,FEB,20.81,2
+San Luis Potosí,2021,FEB,19.92,2
+Sinaloa,2021,FEB,19.73,2
+Sonora,2021,FEB,19.72,2
+Tabasco,2021,FEB,19.46,2
+Tamaulipas,2021,FEB,17.43,2
+Tlaxcala,2021,FEB,19.61,2
+Veracruz de Ignacio de la Llave,2021,FEB,19.65,2
+Yucatán,2021,FEB,20.48,2
+Zacatecas,2021,FEB,19.98,2
+Nacional,2021,MAR,20.1,3
+Aguascalientes,2021,MAR,20.46,3
+Baja California,2021,MAR,19.08,3
+Baja California Sur,2021,MAR,20.73,3
+Campeche,2021,MAR,21.05,3
+Chiapas,2021,MAR,20.04,3
+Chihuahua,2021,MAR,18.37,3
+Ciudad de México,2021,MAR,20.93,3
+Coahuila de Zaragoza,2021,MAR,19.84,3
+Colima,2021,MAR,19.92,3
+Durango,2021,MAR,20.65,3
+Guanajuato,2021,MAR,20.37,3
+Guerrero,2021,MAR,20.98,3
+Hidalgo,2021,MAR,19.91,3
+Jalisco,2021,MAR,20.69,3
+Michoacán de Ocampo,2021,MAR,20.58,3
+Morelos,2021,MAR,20.01,3
+México,2021,MAR,20.26,3
+Nayarit,2021,MAR,20.53,3
+Nuevo León,2021,MAR,20.83,3
+Oaxaca,2021,MAR,21.01,3
+Puebla,2021,MAR,19.86,3
+Querétaro,2021,MAR,19.82,3
+Quintana Roo,2021,MAR,21.01,3
+San Luis Potosí,2021,MAR,20.13,3
+Sinaloa,2021,MAR,20.38,3
+Sonora,2021,MAR,20.08,3
+Tabasco,2021,MAR,19.77,3
+Tamaulipas,2021,MAR,17.85,3
+Tlaxcala,2021,MAR,19.8,3
+Veracruz de Ignacio de la Llave,2021,MAR,20.0,3
+Yucatán,2021,MAR,20.65,3
+Zacatecas,2021,MAR,20.38,3
+Nacional,2021,ABR,20.19,4
+Aguascalientes,2021,ABR,20.53,4
+Baja California,2021,ABR,19.24,4
+Baja California Sur,2021,ABR,20.64,4
+Campeche,2021,ABR,21.08,4
+Chiapas,2021,ABR,20.2,4
+Chihuahua,2021,ABR,18.27,4
+Ciudad de México,2021,ABR,20.88,4
+Coahuila de Zaragoza,2021,ABR,20.02,4
+Colima,2021,ABR,20.01,4
+Durango,2021,ABR,20.77,4
+Guanajuato,2021,ABR,20.39,4
+Guerrero,2021,ABR,21.16,4
+Hidalgo,2021,ABR,19.83,4
+Jalisco,2021,ABR,20.73,4
+Michoacán de Ocampo,2021,ABR,20.64,4
+Morelos,2021,ABR,19.97,4
+México,2021,ABR,20.21,4
+Nayarit,2021,ABR,20.68,4
+Nuevo León,2021,ABR,21.07,4
+Oaxaca,2021,ABR,21.05,4
+Puebla,2021,ABR,19.89,4
+Querétaro,2021,ABR,19.84,4
+Quintana Roo,2021,ABR,21.13,4
+San Luis Potosí,2021,ABR,20.26,4
+Sinaloa,2021,ABR,20.66,4
+Sonora,2021,ABR,20.0,4
+Tabasco,2021,ABR,19.87,4
+Tamaulipas,2021,ABR,18.03,4
+Tlaxcala,2021,ABR,19.78,4
+Veracruz de Ignacio de la Llave,2021,ABR,20.14,4
+Yucatán,2021,ABR,20.82,4
+Zacatecas,2021,ABR,20.56,4
+Nacional,2021,MAY,20.22,5
+Aguascalientes,2021,MAY,20.46,5
+Baja California,2021,MAY,19.38,5
+Baja California Sur,2021,MAY,20.6,5
+Campeche,2021,MAY,21.06,5
+Chiapas,2021,MAY,20.29,5
+Chihuahua,2021,MAY,18.39,5
+Ciudad de México,2021,MAY,20.93,5
+Coahuila de Zaragoza,2021,MAY,20.11,5
+Colima,2021,MAY,20.09,5
+Durango,2021,MAY,20.75,5
+Guanajuato,2021,MAY,20.41,5
+Guerrero,2021,MAY,21.35,5
+Hidalgo,2021,MAY,19.83,5
+Jalisco,2021,MAY,20.78,5
+Michoacán de Ocampo,2021,MAY,20.73,5
+Morelos,2021,MAY,19.97,5
+México,2021,MAY,20.28,5
+Nayarit,2021,MAY,20.79,5
+Nuevo León,2021,MAY,21.2,5
+Oaxaca,2021,MAY,21.09,5
+Puebla,2021,MAY,19.91,5
+Querétaro,2021,MAY,19.91,5
+Quintana Roo,2021,MAY,21.18,5
+San Luis Potosí,2021,MAY,20.37,5
+Sinaloa,2021,MAY,20.73,5
+Sonora,2021,MAY,20.08,5
+Tabasco,2021,MAY,19.92,5
+Tamaulipas,2021,MAY,17.95,5
+Tlaxcala,2021,MAY,19.8,5
+Veracruz de Ignacio de la Llave,2021,MAY,20.21,5
+Yucatán,2021,MAY,20.53,5
+Zacatecas,2021,MAY,20.67,5
+Nacional,2021,JUN,20.27,6
+Aguascalientes,2021,JUN,20.47,6
+Baja California,2021,JUN,19.43,6
+Baja California Sur,2021,JUN,20.63,6
+Campeche,2021,JUN,21.13,6
+Chiapas,2021,JUN,20.29,6
+Chihuahua,2021,JUN,18.25,6
+Ciudad de México,2021,JUN,20.95,6
+Coahuila de Zaragoza,2021,JUN,20.18,6
+Colima,2021,JUN,20.14,6
+Durango,2021,JUN,20.8,6
+Guanajuato,2021,JUN,20.47,6
+Guerrero,2021,JUN,21.47,6
+Hidalgo,2021,JUN,19.86,6
+Jalisco,2021,JUN,20.78,6
+Michoacán de Ocampo,2021,JUN,20.84,6
+Morelos,2021,JUN,20.03,6
+México,2021,JUN,20.32,6
+Nayarit,2021,JUN,20.79,6
+Nuevo León,2021,JUN,21.3,6
+Oaxaca,2021,JUN,21.17,6
+Puebla,2021,JUN,19.92,6
+Querétaro,2021,JUN,19.92,6
+Quintana Roo,2021,JUN,21.16,6
+San Luis Potosí,2021,JUN,20.46,6
+Sinaloa,2021,JUN,20.67,6
+Sonora,2021,JUN,20.18,6
+Tabasco,2021,JUN,19.95,6
+Tamaulipas,2021,JUN,18.04,6
+Tlaxcala,2021,JUN,19.88,6
+Veracruz de Ignacio de la Llave,2021,JUN,20.19,6
+Yucatán,2021,JUN,20.73,6
+Zacatecas,2021,JUN,20.76,6
+Nacional,2021,JUL,20.28,7
+Aguascalientes,2021,JUL,20.55,7
+Baja California,2021,JUL,19.39,7
+Baja California Sur,2021,JUL,20.74,7
+Campeche,2021,JUL,21.29,7
+Chiapas,2021,JUL,20.41,7
+Chihuahua,2021,JUL,18.14,7
+Ciudad de México,2021,JUL,20.83,7
+Coahuila de Zaragoza,2021,JUL,20.21,7
+Colima,2021,JUL,20.21,7
+Durango,2021,JUL,20.76,7
+Guanajuato,2021,JUL,20.42,7
+Guerrero,2021,JUL,21.52,7
+Hidalgo,2021,JUL,19.82,7
+Jalisco,2021,JUL,20.7,7
+Michoacán de Ocampo,2021,JUL,20.81,7
+Morelos,2021,JUL,20.2,7
+México,2021,JUL,20.22,7
+Nayarit,2021,JUL,20.86,7
+Nuevo León,2021,JUL,21.38,7
+Oaxaca,2021,JUL,21.31,7
+Puebla,2021,JUL,20.02,7
+Querétaro,2021,JUL,19.98,7
+Quintana Roo,2021,JUL,21.18,7
+San Luis Potosí,2021,JUL,20.49,7
+Sinaloa,2021,JUL,20.47,7
+Sonora,2021,JUL,20.0,7
+Tabasco,2021,JUL,20.01,7
+Tamaulipas,2021,JUL,18.3,7
+Tlaxcala,2021,JUL,20.01,7
+Veracruz de Ignacio de la Llave,2021,JUL,20.23,7
+Yucatán,2021,JUL,20.93,7
+Zacatecas,2021,JUL,20.86,7
+Nacional,2021,AGO,20.3,8
+Aguascalientes,2021,AGO,20.5,8
+Baja California,2021,AGO,19.43,8
+Baja California Sur,2021,AGO,20.79,8
+Campeche,2021,AGO,21.4,8
+Chiapas,2021,AGO,20.56,8
+Chihuahua,2021,AGO,18.22,8
+Ciudad de México,2021,AGO,20.82,8
+Coahuila de Zaragoza,2021,AGO,20.19,8
+Colima,2021,AGO,20.29,8
+Durango,2021,AGO,20.74,8
+Guanajuato,2021,AGO,20.28,8
+Guerrero,2021,AGO,21.6,8
+Hidalgo,2021,AGO,19.88,8
+Jalisco,2021,AGO,20.61,8
+Michoacán de Ocampo,2021,AGO,20.8,8
+Morelos,2021,AGO,20.26,8
+México,2021,AGO,20.22,8
+Nayarit,2021,AGO,20.86,8
+Nuevo León,2021,AGO,21.27,8
+Oaxaca,2021,AGO,21.39,8
+Puebla,2021,AGO,20.01,8
+Querétaro,2021,AGO,19.9,8
+Quintana Roo,2021,AGO,21.31,8
+San Luis Potosí,2021,AGO,20.53,8
+Sinaloa,2021,AGO,20.51,8
+Sonora,2021,AGO,20.0,8
+Tabasco,2021,AGO,20.0,8
+Tamaulipas,2021,AGO,18.28,8
+Tlaxcala,2021,AGO,19.91,8
+Veracruz de Ignacio de la Llave,2021,AGO,20.27,8
+Yucatán,2021,AGO,21.05,8
+Zacatecas,2021,AGO,20.87,8
+Nacional,2021,SEP,20.19,9
+Aguascalientes,2021,SEP,20.25,9
+Baja California,2021,SEP,19.42,9
+Baja California Sur,2021,SEP,20.85,9
+Campeche,2021,SEP,21.49,9
+Chiapas,2021,SEP,20.54,9
+Chihuahua,2021,SEP,18.21,9
+Ciudad de México,2021,SEP,20.71,9
+Coahuila de Zaragoza,2021,SEP,20.12,9
+Colima,2021,SEP,20.21,9
+Durango,2021,SEP,20.57,9
+Guanajuato,2021,SEP,20.16,9
+Guerrero,2021,SEP,21.67,9
+Hidalgo,2021,SEP,19.86,9
+Jalisco,2021,SEP,20.54,9
+Michoacán de Ocampo,2021,SEP,20.76,9
+Morelos,2021,SEP,20.15,9
+México,2021,SEP,20.15,9
+Nayarit,2021,SEP,20.78,9
+Nuevo León,2021,SEP,21.06,9
+Oaxaca,2021,SEP,21.35,9
+Puebla,2021,SEP,19.86,9
+Querétaro,2021,SEP,19.83,9
+Quintana Roo,2021,SEP,21.28,9
+San Luis Potosí,2021,SEP,20.54,9
+Sinaloa,2021,SEP,20.56,9
+Sonora,2021,SEP,19.65,9
+Tabasco,2021,SEP,20.01,9
+Tamaulipas,2021,SEP,18.22,9
+Tlaxcala,2021,SEP,19.69,9
+Veracruz de Ignacio de la Llave,2021,SEP,20.29,9
+Yucatán,2021,SEP,20.93,9
+Zacatecas,2021,SEP,20.76,9
+Nacional,2021,OCT,20.13,10
+Aguascalientes,2021,OCT,20.2,10
+Baja California,2021,OCT,19.4,10
+Baja California Sur,2021,OCT,20.85,10
+Campeche,2021,OCT,21.62,10
+Chiapas,2021,OCT,20.61,10
+Chihuahua,2021,OCT,18.3,10
+Ciudad de México,2021,OCT,20.57,10
+Coahuila de Zaragoza,2021,OCT,20.14,10
+Colima,2021,OCT,20.13,10
+Durango,2021,OCT,20.47,10
+Guanajuato,2021,OCT,20.06,10
+Guerrero,2021,OCT,21.7,10
+Hidalgo,2021,OCT,19.78,10
+Jalisco,2021,OCT,20.45,10
+Michoacán de Ocampo,2021,OCT,20.8,10
+Morelos,2021,OCT,20.08,10
+México,2021,OCT,20.01,10
+Nayarit,2021,OCT,20.69,10
+Nuevo León,2021,OCT,21.09,10
+Oaxaca,2021,OCT,21.28,10
+Puebla,2021,OCT,19.71,10
+Querétaro,2021,OCT,19.64,10
+Quintana Roo,2021,OCT,21.33,10
+San Luis Potosí,2021,OCT,20.56,10
+Sinaloa,2021,OCT,20.49,10
+Sonora,2021,OCT,19.85,10
+Tabasco,2021,OCT,19.89,10
+Tamaulipas,2021,OCT,17.83,10
+Tlaxcala,2021,OCT,19.6,10
+Veracruz de Ignacio de la Llave,2021,OCT,20.26,10
+Yucatán,2021,OCT,20.84,10
+Zacatecas,2021,OCT,20.71,10
+Nacional,2021,NOV,20.07,11
+Aguascalientes,2021,NOV,20.09,11
+Baja California,2021,NOV,19.31,11
+Baja California Sur,2021,NOV,20.76,11
+Campeche,2021,NOV,21.62,11
+Chiapas,2021,NOV,20.55,11
+Chihuahua,2021,NOV,18.15,11
+Ciudad de México,2021,NOV,20.65,11
+Coahuila de Zaragoza,2021,NOV,19.96,11
+Colima,2021,NOV,20.07,11
+Durango,2021,NOV,20.37,11
+Guanajuato,2021,NOV,19.99,11
+Guerrero,2021,NOV,21.61,11
+Hidalgo,2021,NOV,19.69,11
+Jalisco,2021,NOV,20.44,11
+Michoacán de Ocampo,2021,NOV,20.65,11
+Morelos,2021,NOV,19.97,11
+México,2021,NOV,19.97,11
+Nayarit,2021,NOV,20.57,11
+Nuevo León,2021,NOV,21.08,11
+Oaxaca,2021,NOV,21.15,11
+Puebla,2021,NOV,19.63,11
+Querétaro,2021,NOV,19.5,11
+Quintana Roo,2021,NOV,21.22,11
+San Luis Potosí,2021,NOV,20.54,11
+Sinaloa,2021,NOV,20.52,11
+Sonora,2021,NOV,19.99,11
+Tabasco,2021,NOV,19.79,11
+Tamaulipas,2021,NOV,17.88,11
+Tlaxcala,2021,NOV,19.44,11
+Veracruz de Ignacio de la Llave,2021,NOV,20.15,11
+Yucatán,2021,NOV,20.77,11
+Zacatecas,2021,NOV,20.6,11
+Nacional,2021,DIC,20.28,12
+Aguascalientes,2021,DIC,20.26,12
+Baja California,2021,DIC,19.38,12
+Baja California Sur,2021,DIC,20.84,12
+Campeche,2021,DIC,21.69,12
+Chiapas,2021,DIC,20.71,12
+Chihuahua,2021,DIC,18.46,12
+Ciudad de México,2021,DIC,21.08,12
+Coahuila de Zaragoza,2021,DIC,20.17,12
+Colima,2021,DIC,20.35,12
+Durango,2021,DIC,20.56,12
+Guanajuato,2021,DIC,20.2,12
+Guerrero,2021,DIC,21.79,12
+Hidalgo,2021,DIC,19.94,12
+Jalisco,2021,DIC,20.78,12
+Michoacán de Ocampo,2021,DIC,20.93,12
+Morelos,2021,DIC,20.19,12
+México,2021,DIC,20.3,12
+Nayarit,2021,DIC,20.79,12
+Nuevo León,2021,DIC,21.15,12
+Oaxaca,2021,DIC,21.25,12
+Puebla,2021,DIC,19.86,12
+Querétaro,2021,DIC,19.8,12
+Quintana Roo,2021,DIC,21.34,12
+San Luis Potosí,2021,DIC,20.68,12
+Sinaloa,2021,DIC,20.56,12
+Sonora,2021,DIC,19.92,12
+Tabasco,2021,DIC,19.93,12
+Tamaulipas,2021,DIC,17.97,12
+Tlaxcala,2021,DIC,19.69,12
+Veracruz de Ignacio de la Llave,2021,DIC,20.33,12
+Yucatán,2021,DIC,21.01,12
+Zacatecas,2021,DIC,20.72,12
+Nacional,2022,ENE,20.65,1
+Aguascalientes,2022,ENE,20.62,1
+Baja California,2022,ENE,19.68,1
+Baja California Sur,2022,ENE,21.21,1
+Campeche,2022,ENE,21.91,1
+Chiapas,2022,ENE,20.91,1
+Chihuahua,2022,ENE,18.92,1
+Ciudad de México,2022,ENE,21.4,1
+Coahuila de Zaragoza,2022,ENE,20.45,1
+Colima,2022,ENE,20.71,1
+Durango,2022,ENE,20.85,1
+Guanajuato,2022,ENE,20.59,1
+Guerrero,2022,ENE,22.04,1
+Hidalgo,2022,ENE,20.38,1
+Jalisco,2022,ENE,21.17,1
+Michoacán de Ocampo,2022,ENE,21.22,1
+Morelos,2022,ENE,20.56,1
+México,2022,ENE,20.65,1
+Nayarit,2022,ENE,21.3,1
+Nuevo León,2022,ENE,21.57,1
+Oaxaca,2022,ENE,21.64,1
+Puebla,2022,ENE,20.3,1
+Querétaro,2022,ENE,20.25,1
+Quintana Roo,2022,ENE,21.71,1
+San Luis Potosí,2022,ENE,21.07,1
+Sinaloa,2022,ENE,20.98,1
+Sonora,2022,ENE,20.27,1
+Tabasco,2022,ENE,20.21,1
+Tamaulipas,2022,ENE,18.24,1
+Tlaxcala,2022,ENE,20.14,1
+Veracruz de Ignacio de la Llave,2022,ENE,20.67,1
+Yucatán,2022,ENE,21.39,1
+Zacatecas,2022,ENE,21.01,1
+Nacional,2022,FEB,20.85,2
+Aguascalientes,2022,FEB,20.81,2
+Baja California,2022,FEB,20.0,2
+Baja California Sur,2022,FEB,21.4,2
+Campeche,2022,FEB,22.23,2
+Chiapas,2022,FEB,20.96,2
+Chihuahua,2022,FEB,19.22,2
+Ciudad de México,2022,FEB,21.54,2
+Coahuila de Zaragoza,2022,FEB,20.52,2
+Colima,2022,FEB,20.91,2
+Durango,2022,FEB,21.06,2
+Guanajuato,2022,FEB,20.78,2
+Guerrero,2022,FEB,22.19,2
+Hidalgo,2022,FEB,20.53,2
+Jalisco,2022,FEB,21.35,2
+Michoacán de Ocampo,2022,FEB,21.45,2
+Morelos,2022,FEB,20.76,2
+México,2022,FEB,20.81,2
+Nayarit,2022,FEB,21.47,2
+Nuevo León,2022,FEB,21.96,2
+Oaxaca,2022,FEB,21.71,2
+Puebla,2022,FEB,20.49,2
+Querétaro,2022,FEB,20.45,2
+Quintana Roo,2022,FEB,22.05,2
+San Luis Potosí,2022,FEB,21.25,2
+Sinaloa,2022,FEB,21.26,2
+Sonora,2022,FEB,20.67,2
+Tabasco,2022,FEB,20.36,2
+Tamaulipas,2022,FEB,18.52,2
+Tlaxcala,2022,FEB,20.36,2
+Veracruz de Ignacio de la Llave,2022,FEB,20.84,2
+Yucatán,2022,FEB,21.51,2
+Zacatecas,2022,FEB,21.15,2
+Nacional,2022,MAR,21.28,3
+Aguascalientes,2022,MAR,21.25,3
+Baja California,2022,MAR,20.48,3
+Baja California Sur,2022,MAR,21.62,3
+Campeche,2022,MAR,22.58,3
+Chiapas,2022,MAR,21.22,3
+Chihuahua,2022,MAR,19.75,3
+Ciudad de México,2022,MAR,22.1,3
+Coahuila de Zaragoza,2022,MAR,21.22,3
+Colima,2022,MAR,21.22,3
+Durango,2022,MAR,21.52,3
+Guanajuato,2022,MAR,21.23,3
+Guerrero,2022,MAR,22.43,3
+Hidalgo,2022,MAR,20.89,3
+Jalisco,2022,MAR,21.92,3
+Michoacán de Ocampo,2022,MAR,21.73,3
+Morelos,2022,MAR,21.09,3
+México,2022,MAR,21.31,3
+Nayarit,2022,MAR,21.79,3
+Nuevo León,2022,MAR,22.39,3
+Oaxaca,2022,MAR,22.03,3
+Puebla,2022,MAR,20.91,3
+Querétaro,2022,MAR,20.94,3
+Quintana Roo,2022,MAR,22.38,3
+San Luis Potosí,2022,MAR,21.59,3
+Sinaloa,2022,MAR,21.85,3
+Sonora,2022,MAR,21.04,3
+Tabasco,2022,MAR,20.59,3
+Tamaulipas,2022,MAR,18.97,3
+Tlaxcala,2022,MAR,20.77,3
+Veracruz de Ignacio de la Llave,2022,MAR,21.07,3
+Yucatán,2022,MAR,21.82,3
+Zacatecas,2022,MAR,21.56,3
+Nacional,2022,ABR,21.47,4
+Aguascalientes,2022,ABR,21.48,4
+Baja California,2022,ABR,21.11,4
+Baja California Sur,2022,ABR,21.7,4
+Campeche,2022,ABR,22.6,4
+Chiapas,2022,ABR,21.35,4
+Chihuahua,2022,ABR,20.18,4
+Ciudad de México,2022,ABR,22.18,4
+Coahuila de Zaragoza,2022,ABR,21.57,4
+Colima,2022,ABR,21.38,4
+Durango,2022,ABR,21.9,4
+Guanajuato,2022,ABR,21.44,4
+Guerrero,2022,ABR,22.41,4
+Hidalgo,2022,ABR,21.05,4
+Jalisco,2022,ABR,22.13,4
+Michoacán de Ocampo,2022,ABR,21.81,4
+Morelos,2022,ABR,21.18,4
+México,2022,ABR,21.47,4
+Nayarit,2022,ABR,22.02,4
+Nuevo León,2022,ABR,22.65,4
+Oaxaca,2022,ABR,22.13,4
+Puebla,2022,ABR,21.09,4
+Querétaro,2022,ABR,21.18,4
+Quintana Roo,2022,ABR,22.53,4
+San Luis Potosí,2022,ABR,21.76,4
+Sinaloa,2022,ABR,22.13,4
+Sonora,2022,ABR,21.22,4
+Tabasco,2022,ABR,20.74,4
+Tamaulipas,2022,ABR,19.4,4
+Tlaxcala,2022,ABR,20.98,4
+Veracruz de Ignacio de la Llave,2022,ABR,21.25,4
+Yucatán,2022,ABR,21.94,4
+Zacatecas,2022,ABR,21.96,4
+Nacional,2022,MAY,21.67,5
+Aguascalientes,2022,MAY,21.8,5
+Baja California,2022,MAY,21.28,5
+Baja California Sur,2022,MAY,21.75,5
+Campeche,2022,MAY,22.67,5
+Chiapas,2022,MAY,21.48,5
+Chihuahua,2022,MAY,20.31,5
+Ciudad de México,2022,MAY,22.4,5
+Coahuila de Zaragoza,2022,MAY,21.95,5
+Colima,2022,MAY,21.49,5
+Durango,2022,MAY,22.13,5
+Guanajuato,2022,MAY,21.67,5
+Guerrero,2022,MAY,22.59,5
+Hidalgo,2022,MAY,21.2,5
+Jalisco,2022,MAY,22.34,5
+Michoacán de Ocampo,2022,MAY,21.78,5
+Morelos,2022,MAY,21.23,5
+México,2022,MAY,21.7,5
+Nayarit,2022,MAY,22.05,5
+Nuevo León,2022,MAY,22.85,5
+Oaxaca,2022,MAY,22.21,5
+Puebla,2022,MAY,21.2,5
+Querétaro,2022,MAY,21.37,5
+Quintana Roo,2022,MAY,22.69,5
+San Luis Potosí,2022,MAY,21.93,5
+Sinaloa,2022,MAY,21.89,5
+Sonora,2022,MAY,21.22,5
+Tabasco,2022,MAY,20.97,5
+Tamaulipas,2022,MAY,19.6,5
+Tlaxcala,2022,MAY,21.08,5
+Veracruz de Ignacio de la Llave,2022,MAY,21.39,5
+Yucatán,2022,MAY,22.07,5
+Zacatecas,2022,MAY,22.15,5
+Nacional,2022,JUN,21.86,6
+Aguascalientes,2022,JUN,21.81,6
+Baja California,2022,JUN,21.3,6
+Baja California Sur,2022,JUN,21.82,6
+Campeche,2022,JUN,22.73,6
+Chiapas,2022,JUN,21.5,6
+Chihuahua,2022,JUN,20.68,6
+Ciudad de México,2022,JUN,22.66,6
+Coahuila de Zaragoza,2022,JUN,22.11,6
+Colima,2022,JUN,21.54,6
+Durango,2022,JUN,22.29,6
+Guanajuato,2022,JUN,21.85,6
+Guerrero,2022,JUN,22.71,6
+Hidalgo,2022,JUN,21.23,6
+Jalisco,2022,JUN,22.59,6
+Michoacán de Ocampo,2022,JUN,21.97,6
+Morelos,2022,JUN,21.28,6
+México,2022,JUN,21.91,6
+Nayarit,2022,JUN,22.17,6
+Nuevo León,2022,JUN,23.09,6
+Oaxaca,2022,JUN,22.25,6
+Puebla,2022,JUN,21.22,6
+Querétaro,2022,JUN,21.44,6
+Quintana Roo,2022,JUN,22.77,6
+San Luis Potosí,2022,JUN,22.04,6
+Sinaloa,2022,JUN,21.79,6
+Sonora,2022,JUN,21.25,6
+Tabasco,2022,JUN,21.16,6
+Tamaulipas,2022,JUN,19.69,6
+Tlaxcala,2022,JUN,21.15,6
+Veracruz de Ignacio de la Llave,2022,JUN,21.41,6
+Yucatán,2022,JUN,22.09,6
+Zacatecas,2022,JUN,22.35,6
+Nacional,2022,JUL,21.83,7
+Aguascalientes,2022,JUL,21.7,7
+Baja California,2022,JUL,21.12,7
+Baja California Sur,2022,JUL,22.05,7
+Campeche,2022,JUL,22.81,7
+Chiapas,2022,JUL,21.66,7
+Chihuahua,2022,JUL,20.45,7
+Ciudad de México,2022,JUL,22.67,7
+Coahuila de Zaragoza,2022,JUL,22.05,7
+Colima,2022,JUL,21.72,7
+Durango,2022,JUL,22.35,7
+Guanajuato,2022,JUL,21.94,7
+Guerrero,2022,JUL,22.86,7
+Hidalgo,2022,JUL,21.33,7
+Jalisco,2022,JUL,22.54,7
+Michoacán de Ocampo,2022,JUL,22.14,7
+Morelos,2022,JUL,21.42,7
+México,2022,JUL,21.87,7
+Nayarit,2022,JUL,22.38,7
+Nuevo León,2022,JUL,22.86,7
+Oaxaca,2022,JUL,22.39,7
+Puebla,2022,JUL,21.4,7
+Querétaro,2022,JUL,21.5,7
+Quintana Roo,2022,JUL,22.92,7
+San Luis Potosí,2022,JUL,22.09,7
+Sinaloa,2022,JUL,22.31,7
+Sonora,2022,JUL,21.45,7
+Tabasco,2022,JUL,21.29,7
+Tamaulipas,2022,JUL,19.17,7
+Tlaxcala,2022,JUL,21.32,7
+Veracruz de Ignacio de la Llave,2022,JUL,21.52,7
+Yucatán,2022,JUL,22.19,7
+Zacatecas,2022,JUL,22.44,7
+Nacional,2022,AGO,21.9,8
+Aguascalientes,2022,AGO,21.64,8
+Baja California,2022,AGO,21.19,8
+Baja California Sur,2022,AGO,22.42,8
+Campeche,2022,AGO,22.93,8
+Chiapas,2022,AGO,21.71,8
+Chihuahua,2022,AGO,20.5,8
+Ciudad de México,2022,AGO,22.65,8
+Coahuila de Zaragoza,2022,AGO,22.01,8
+Colima,2022,AGO,21.91,8
+Durango,2022,AGO,22.39,8
+Guanajuato,2022,AGO,21.98,8
+Guerrero,2022,AGO,22.87,8
+Hidalgo,2022,AGO,21.38,8
+Jalisco,2022,AGO,22.52,8
+Michoacán de Ocampo,2022,AGO,22.21,8
+Morelos,2022,AGO,21.47,8
+México,2022,AGO,21.88,8
+Nayarit,2022,AGO,22.55,8
+Nuevo León,2022,AGO,22.96,8
+Oaxaca,2022,AGO,22.5,8
+Puebla,2022,AGO,21.43,8
+Querétaro,2022,AGO,21.49,8
+Quintana Roo,2022,AGO,23.07,8
+San Luis Potosí,2022,AGO,22.15,8
+Sinaloa,2022,AGO,22.53,8
+Sonora,2022,AGO,21.67,8
+Tabasco,2022,AGO,21.37,8
+Tamaulipas,2022,AGO,19.46,8
+Tlaxcala,2022,AGO,21.34,8
+Veracruz de Ignacio de la Llave,2022,AGO,21.63,8
+Yucatán,2022,AGO,22.19,8
+Zacatecas,2022,AGO,22.44,8
+Nacional,2022,SEP,21.7,9
+Aguascalientes,2022,SEP,21.4,9
+Baja California,2022,SEP,21.08,9
+Baja California Sur,2022,SEP,22.53,9
+Campeche,2022,SEP,23.06,9
+Chiapas,2022,SEP,21.86,9
+Chihuahua,2022,SEP,19.81,9
+Ciudad de México,2022,SEP,22.31,9
+Coahuila de Zaragoza,2022,SEP,21.55,9
+Colima,2022,SEP,21.93,9
+Durango,2022,SEP,22.21,9
+Guanajuato,2022,SEP,21.91,9
+Guerrero,2022,SEP,22.9,9
+Hidalgo,2022,SEP,21.25,9
+Jalisco,2022,SEP,22.17,9
+Michoacán de Ocampo,2022,SEP,22.13,9
+Morelos,2022,SEP,21.36,9
+México,2022,SEP,21.59,9
+Nayarit,2022,SEP,22.38,9
+Nuevo León,2022,SEP,22.74,9
+Oaxaca,2022,SEP,22.5,9
+Puebla,2022,SEP,21.26,9
+Querétaro,2022,SEP,21.24,9
+Quintana Roo,2022,SEP,22.95,9
+San Luis Potosí,2022,SEP,22.05,9
+Sinaloa,2022,SEP,22.54,9
+Sonora,2022,SEP,21.62,9
+Tabasco,2022,SEP,21.42,9
+Tamaulipas,2022,SEP,18.99,9
+Tlaxcala,2022,SEP,21.13,9
+Veracruz de Ignacio de la Llave,2022,SEP,21.48,9
+Yucatán,2022,SEP,22.12,9
+Zacatecas,2022,SEP,22.12,9
+Nacional,2022,OCT,21.9,10
+Aguascalientes,2022,OCT,21.57,10
+Baja California,2022,OCT,21.2,10
+Baja California Sur,2022,OCT,22.75,10
+Campeche,2022,OCT,23.23,10
+Chiapas,2022,OCT,21.93,10
+Chihuahua,2022,OCT,20.09,10
+Ciudad de México,2022,OCT,22.49,10
+Coahuila de Zaragoza,2022,OCT,21.74,10
+Colima,2022,OCT,22.07,10
+Durango,2022,OCT,22.34,10
+Guanajuato,2022,OCT,22.03,10
+Guerrero,2022,OCT,23.12,10
+Hidalgo,2022,OCT,21.51,10
+Jalisco,2022,OCT,22.41,10
+Michoacán de Ocampo,2022,OCT,22.32,10
+Morelos,2022,OCT,21.58,10
+México,2022,OCT,21.81,10
+Nayarit,2022,OCT,22.41,10
+Nuevo León,2022,OCT,22.98,10
+Oaxaca,2022,OCT,22.67,10
+Puebla,2022,OCT,21.54,10
+Querétaro,2022,OCT,21.43,10
+Quintana Roo,2022,OCT,23.18,10
+San Luis Potosí,2022,OCT,22.27,10
+Sinaloa,2022,OCT,22.61,10
+Sonora,2022,OCT,21.66,10
+Tabasco,2022,OCT,21.72,10
+Tamaulipas,2022,OCT,19.51,10
+Tlaxcala,2022,OCT,21.41,10
+Veracruz de Ignacio de la Llave,2022,OCT,21.7,10
+Yucatán,2022,OCT,22.46,10
+Zacatecas,2022,OCT,22.2,10
+Nacional,2022,NOV,21.79,11
+Aguascalientes,2022,NOV,21.52,11
+Baja California,2022,NOV,21.07,11
+Baja California Sur,2022,NOV,22.65,11
+Campeche,2022,NOV,23.33,11
+Chiapas,2022,NOV,21.91,11
+Chihuahua,2022,NOV,19.69,11
+Ciudad de México,2022,NOV,22.33,11
+Coahuila de Zaragoza,2022,NOV,21.64,11
+Colima,2022,NOV,22.0,11
+Durango,2022,NOV,22.09,11
+Guanajuato,2022,NOV,22.0,11
+Guerrero,2022,NOV,23.01,11
+Hidalgo,2022,NOV,21.22,11
+Jalisco,2022,NOV,22.36,11
+Michoacán de Ocampo,2022,NOV,22.14,11
+Morelos,2022,NOV,21.4,11
+México,2022,NOV,21.75,11
+Nayarit,2022,NOV,22.24,11
+Nuevo León,2022,NOV,23.11,11
+Oaxaca,2022,NOV,22.62,11
+Puebla,2022,NOV,21.36,11
+Querétaro,2022,NOV,21.15,11
+Quintana Roo,2022,NOV,23.15,11
+San Luis Potosí,2022,NOV,22.01,11
+Sinaloa,2022,NOV,22.32,11
+Sonora,2022,NOV,21.72,11
+Tabasco,2022,NOV,21.65,11
+Tamaulipas,2022,NOV,19.46,11
+Tlaxcala,2022,NOV,21.27,11
+Veracruz de Ignacio de la Llave,2022,NOV,21.64,11
+Yucatán,2022,NOV,22.28,11
+Zacatecas,2022,NOV,22.02,11
+Nacional,2022,DIC,21.5,12
+Aguascalientes,2022,DIC,21.22,12
+Baja California,2022,DIC,20.69,12
+Baja California Sur,2022,DIC,22.57,12
+Campeche,2022,DIC,23.26,12
+Chiapas,2022,DIC,21.81,12
+Chihuahua,2022,DIC,19.69,12
+Ciudad de México,2022,DIC,22.14,12
+Coahuila de Zaragoza,2022,DIC,21.1,12
+Colima,2022,DIC,21.81,12
+Durango,2022,DIC,21.65,12
+Guanajuato,2022,DIC,21.69,12
+Guerrero,2022,DIC,22.92,12
+Hidalgo,2022,DIC,20.96,12
+Jalisco,2022,DIC,22.08,12
+Michoacán de Ocampo,2022,DIC,22.03,12
+Morelos,2022,DIC,21.19,12
+México,2022,DIC,21.51,12
+Nayarit,2022,DIC,22.06,12
+Nuevo León,2022,DIC,22.73,12
+Oaxaca,2022,DIC,22.5,12
+Puebla,2022,DIC,21.06,12
+Querétaro,2022,DIC,20.87,12
+Quintana Roo,2022,DIC,22.92,12
+San Luis Potosí,2022,DIC,21.97,12
+Sinaloa,2022,DIC,22.08,12
+Sonora,2022,DIC,21.27,12
+Tabasco,2022,DIC,21.67,12
+Tamaulipas,2022,DIC,18.74,12
+Tlaxcala,2022,DIC,21.09,12
+Veracruz de Ignacio de la Llave,2022,DIC,21.41,12
+Yucatán,2022,DIC,21.92,12
+Zacatecas,2022,DIC,21.85,12
+Nacional,2023,ENE,21.76,1
+Aguascalientes,2023,ENE,21.51,1
+Baja California,2023,ENE,20.98,1
+Baja California Sur,2023,ENE,22.87,1
+Campeche,2023,ENE,23.16,1
+Chiapas,2023,ENE,21.9,1
+Chihuahua,2023,ENE,19.87,1
+Ciudad de México,2023,ENE,22.3,1
+Coahuila de Zaragoza,2023,ENE,21.1,1
+Colima,2023,ENE,22.08,1
+Durango,2023,ENE,22.01,1
+Guanajuato,2023,ENE,22.0,1
+Guerrero,2023,ENE,23.18,1
+Hidalgo,2023,ENE,21.37,1
+Jalisco,2023,ENE,22.32,1
+Michoacán de Ocampo,2023,ENE,22.41,1
+Morelos,2023,ENE,21.49,1
+México,2023,ENE,21.72,1
+Nayarit,2023,ENE,22.5,1
+Nuevo León,2023,ENE,22.93,1
+Oaxaca,2023,ENE,22.78,1
+Puebla,2023,ENE,21.4,1
+Querétaro,2023,ENE,21.18,1
+Quintana Roo,2023,ENE,23.17,1
+San Luis Potosí,2023,ENE,22.2,1
+Sinaloa,2023,ENE,22.39,1
+Sonora,2023,ENE,21.59,1
+Tabasco,2023,ENE,21.74,1
+Tamaulipas,2023,ENE,18.98,1
+Tlaxcala,2023,ENE,21.41,1
+Veracruz de Ignacio de la Llave,2023,ENE,21.61,1
+Yucatán,2023,ENE,22.31,1
+Zacatecas,2023,ENE,22.05,1
+Nacional,2023,FEB,21.79,2
+Aguascalientes,2023,FEB,21.59,2
+Baja California,2023,FEB,21.06,2
+Baja California Sur,2023,FEB,22.97,2
+Campeche,2023,FEB,23.01,2
+Chiapas,2023,FEB,21.85,2
+Chihuahua,2023,FEB,19.76,2
+Ciudad de México,2023,FEB,22.36,2
+Coahuila de Zaragoza,2023,FEB,21.11,2
+Colima,2023,FEB,22.17,2
+Durango,2023,FEB,22.07,2
+Guanajuato,2023,FEB,22.04,2
+Guerrero,2023,FEB,23.3,2
+Hidalgo,2023,FEB,21.37,2
+Jalisco,2023,FEB,22.39,2
+Michoacán de Ocampo,2023,FEB,22.46,2
+Morelos,2023,FEB,21.54,2
+México,2023,FEB,21.74,2
+Nayarit,2023,FEB,22.65,2
+Nuevo León,2023,FEB,23.17,2
+Oaxaca,2023,FEB,22.89,2
+Puebla,2023,FEB,21.41,2
+Querétaro,2023,FEB,21.06,2
+Quintana Roo,2023,FEB,23.33,2
+San Luis Potosí,2023,FEB,22.19,2
+Sinaloa,2023,FEB,22.14,2
+Sonora,2023,FEB,21.64,2
+Tabasco,2023,FEB,21.61,2
+Tamaulipas,2023,FEB,18.82,2
+Tlaxcala,2023,FEB,21.4,2
+Veracruz de Ignacio de la Llave,2023,FEB,21.57,2
+Yucatán,2023,FEB,22.48,2
+Zacatecas,2023,FEB,22.1,2
+Nacional,2023,MAR,21.88,3
+Aguascalientes,2023,MAR,21.63,3
+Baja California,2023,MAR,21.16,3
+Baja California Sur,2023,MAR,23.05,3
+Campeche,2023,MAR,22.99,3
+Chiapas,2023,MAR,21.82,3
+Chihuahua,2023,MAR,19.75,3
+Ciudad de México,2023,MAR,22.55,3
+Coahuila de Zaragoza,2023,MAR,21.39,3
+Colima,2023,MAR,22.25,3
+Durango,2023,MAR,22.29,3
+Guanajuato,2023,MAR,22.04,3
+Guerrero,2023,MAR,23.39,3
+Hidalgo,2023,MAR,21.43,3
+Jalisco,2023,MAR,22.51,3
+Michoacán de Ocampo,2023,MAR,22.48,3
+Morelos,2023,MAR,21.63,3
+México,2023,MAR,21.89,3
+Nayarit,2023,MAR,22.61,3
+Nuevo León,2023,MAR,23.33,3
+Oaxaca,2023,MAR,22.82,3
+Puebla,2023,MAR,21.46,3
+Querétaro,2023,MAR,21.14,3
+Quintana Roo,2023,MAR,23.39,3
+San Luis Potosí,2023,MAR,22.22,3
+Sinaloa,2023,MAR,22.34,3
+Sonora,2023,MAR,21.27,3
+Tabasco,2023,MAR,21.62,3
+Tamaulipas,2023,MAR,19.1,3
+Tlaxcala,2023,MAR,21.46,3
+Veracruz de Ignacio de la Llave,2023,MAR,21.61,3
+Yucatán,2023,MAR,22.53,3
+Zacatecas,2023,MAR,22.16,3
+Nacional,2023,ABR,21.96,4
+Aguascalientes,2023,ABR,21.77,4
+Baja California,2023,ABR,21.28,4
+Baja California Sur,2023,ABR,22.99,4
+Campeche,2023,ABR,23.0,4
+Chiapas,2023,ABR,21.94,4
+Chihuahua,2023,ABR,19.93,4
+Ciudad de México,2023,ABR,22.74,4
+Coahuila de Zaragoza,2023,ABR,21.65,4
+Colima,2023,ABR,22.24,4
+Durango,2023,ABR,22.45,4
+Guanajuato,2023,ABR,22.11,4
+Guerrero,2023,ABR,23.36,4
+Hidalgo,2023,ABR,21.54,4
+Jalisco,2023,ABR,22.63,4
+Michoacán de Ocampo,2023,ABR,22.5,4
+Morelos,2023,ABR,21.8,4
+México,2023,ABR,22.11,4
+Nayarit,2023,ABR,22.97,4
+Nuevo León,2023,ABR,23.6,4
+Oaxaca,2023,ABR,22.9,4
+Puebla,2023,ABR,21.56,4
+Querétaro,2023,ABR,21.2,4
+Quintana Roo,2023,ABR,23.51,4
+San Luis Potosí,2023,ABR,22.15,4
+Sinaloa,2023,ABR,22.42,4
+Sonora,2023,ABR,21.32,4
+Tabasco,2023,ABR,21.72,4
+Tamaulipas,2023,ABR,19.22,4
+Tlaxcala,2023,ABR,21.62,4
+Veracruz de Ignacio de la Llave,2023,ABR,21.71,4
+Yucatán,2023,ABR,22.45,4
+Zacatecas,2023,ABR,22.2,4
+Nacional,2023,MAY,21.94,5
+Aguascalientes,2023,MAY,21.76,5
+Baja California,2023,MAY,21.16,5
+Baja California Sur,2023,MAY,23.07,5
+Campeche,2023,MAY,22.97,5
+Chiapas,2023,MAY,21.97,5
+Chihuahua,2023,MAY,20.57,5
+Ciudad de México,2023,MAY,22.55,5
+Coahuila de Zaragoza,2023,MAY,21.21,5
+Colima,2023,MAY,22.14,5
+Durango,2023,MAY,22.45,5
+Guanajuato,2023,MAY,21.92,5
+Guerrero,2023,MAY,23.45,5
+Hidalgo,2023,MAY,21.51,5
+Jalisco,2023,MAY,22.39,5
+Michoacán de Ocampo,2023,MAY,22.53,5
+Morelos,2023,MAY,21.81,5
+México,2023,MAY,21.93,5
+Nayarit,2023,MAY,22.42,5
+Nuevo León,2023,MAY,23.46,5
+Oaxaca,2023,MAY,22.94,5
+Puebla,2023,MAY,21.55,5
+Querétaro,2023,MAY,21.25,5
+Quintana Roo,2023,MAY,23.49,5
+San Luis Potosí,2023,MAY,22.3,5
+Sinaloa,2023,MAY,22.43,5
+Sonora,2023,MAY,21.81,5
+Tabasco,2023,MAY,21.65,5
+Tamaulipas,2023,MAY,19.56,5
+Tlaxcala,2023,MAY,21.62,5
+Veracruz de Ignacio de la Llave,2023,MAY,21.68,5
+Yucatán,2023,MAY,22.25,5
+Zacatecas,2023,MAY,22.1,5
+Nacional,2023,JUN,21.99,6
+Aguascalientes,2023,JUN,21.97,6
+Baja California,2023,JUN,21.26,6
+Baja California Sur,2023,JUN,23.29,6
+Campeche,2023,JUN,22.96,6
+Chiapas,2023,JUN,22.01,6
+Chihuahua,2023,JUN,20.68,6
+Ciudad de México,2023,JUN,22.55,6
+Coahuila de Zaragoza,2023,JUN,21.17,6
+Colima,2023,JUN,22.26,6
+Durango,2023,JUN,22.4,6
+Guanajuato,2023,JUN,21.88,6
+Guerrero,2023,JUN,23.39,6
+Hidalgo,2023,JUN,21.55,6
+Jalisco,2023,JUN,22.45,6
+Michoacán de Ocampo,2023,JUN,22.58,6
+Morelos,2023,JUN,21.91,6
+México,2023,JUN,21.94,6
+Nayarit,2023,JUN,22.32,6
+Nuevo León,2023,JUN,23.19,6
+Oaxaca,2023,JUN,22.93,6
+Puebla,2023,JUN,21.61,6
+Querétaro,2023,JUN,21.33,6
+Quintana Roo,2023,JUN,23.57,6
+San Luis Potosí,2023,JUN,22.37,6
+Sinaloa,2023,JUN,22.28,6
+Sonora,2023,JUN,22.05,6
+Tabasco,2023,JUN,21.7,6
+Tamaulipas,2023,JUN,19.67,6
+Tlaxcala,2023,JUN,21.66,6
+Veracruz de Ignacio de la Llave,2023,JUN,21.83,6
+Yucatán,2023,JUN,22.38,6
+Zacatecas,2023,JUN,22.21,6
+Nacional,2023,JUL,22.09,7
+Aguascalientes,2023,JUL,22.05,7
+Baja California,2023,JUL,21.38,7
+Baja California Sur,2023,JUL,23.42,7
+Campeche,2023,JUL,22.98,7
+Chiapas,2023,JUL,22.02,7
+Chihuahua,2023,JUL,20.72,7
+Ciudad de México,2023,JUL,22.56,7
+Coahuila de Zaragoza,2023,JUL,21.53,7
+Colima,2023,JUL,22.42,7
+Durango,2023,JUL,22.56,7
+Guanajuato,2023,JUL,21.99,7
+Guerrero,2023,JUL,23.36,7
+Hidalgo,2023,JUL,21.7,7
+Jalisco,2023,JUL,22.65,7
+Michoacán de Ocampo,2023,JUL,22.75,7
+Morelos,2023,JUL,21.98,7
+México,2023,JUL,22.0,7
+Nayarit,2023,JUL,22.84,7
+Nuevo León,2023,JUL,23.33,7
+Oaxaca,2023,JUL,22.99,7
+Puebla,2023,JUL,21.74,7
+Querétaro,2023,JUL,21.52,7
+Quintana Roo,2023,JUL,23.61,7
+San Luis Potosí,2023,JUL,22.36,7
+Sinaloa,2023,JUL,22.51,7
+Sonora,2023,JUL,22.19,7
+Tabasco,2023,JUL,21.81,7
+Tamaulipas,2023,JUL,19.31,7
+Tlaxcala,2023,JUL,21.76,7
+Veracruz de Ignacio de la Llave,2023,JUL,21.96,7
+Yucatán,2023,JUL,22.55,7
+Zacatecas,2023,JUL,22.37,7
+Nacional,2023,AGO,22.31,8
+Aguascalientes,2023,AGO,22.24,8
+Baja California,2023,AGO,21.43,8
+Baja California Sur,2023,AGO,23.42,8
+Campeche,2023,AGO,23.14,8
+Chiapas,2023,AGO,22.15,8
+Chihuahua,2023,AGO,21.32,8
+Ciudad de México,2023,AGO,22.6,8
+Coahuila de Zaragoza,2023,AGO,22.13,8
+Colima,2023,AGO,22.54,8
+Durango,2023,AGO,22.92,8
+Guanajuato,2023,AGO,22.23,8
+Guerrero,2023,AGO,23.6,8
+Hidalgo,2023,AGO,21.84,8
+Jalisco,2023,AGO,22.89,8
+Michoacán de Ocampo,2023,AGO,22.83,8
+Morelos,2023,AGO,22.14,8
+México,2023,AGO,22.11,8
+Nayarit,2023,AGO,23.01,8
+Nuevo León,2023,AGO,23.47,8
+Oaxaca,2023,AGO,23.14,8
+Puebla,2023,AGO,21.99,8
+Querétaro,2023,AGO,21.8,8
+Quintana Roo,2023,AGO,23.71,8
+San Luis Potosí,2023,AGO,22.41,8
+Sinaloa,2023,AGO,23.02,8
+Sonora,2023,AGO,22.66,8
+Tabasco,2023,AGO,21.94,8
+Tamaulipas,2023,AGO,19.72,8
+Tlaxcala,2023,AGO,21.97,8
+Veracruz de Ignacio de la Llave,2023,AGO,22.09,8
+Yucatán,2023,AGO,22.79,8
+Zacatecas,2023,AGO,22.56,8
+Nacional,2023,SEP,22.35,9
+Aguascalientes,2023,SEP,22.32,9
+Baja California,2023,SEP,21.42,9
+Baja California Sur,2023,SEP,23.38,9
+Campeche,2023,SEP,23.31,9
+Chiapas,2023,SEP,22.24,9
+Chihuahua,2023,SEP,21.67,9
+Ciudad de México,2023,SEP,22.84,9
+Coahuila de Zaragoza,2023,SEP,22.12,9
+Colima,2023,SEP,22.57,9
+Durango,2023,SEP,23.01,9
+Guanajuato,2023,SEP,22.21,9
+Guerrero,2023,SEP,23.52,9
+Hidalgo,2023,SEP,21.81,9
+Jalisco,2023,SEP,23.02,9
+Michoacán de Ocampo,2023,SEP,22.78,9
+Morelos,2023,SEP,22.1,9
+México,2023,SEP,22.3,9
+Nayarit,2023,SEP,22.99,9
+Nuevo León,2023,SEP,23.44,9
+Oaxaca,2023,SEP,23.22,9
+Puebla,2023,SEP,21.92,9
+Querétaro,2023,SEP,21.68,9
+Quintana Roo,2023,SEP,23.76,9
+San Luis Potosí,2023,SEP,22.48,9
+Sinaloa,2023,SEP,23.09,9
+Sonora,2023,SEP,22.61,9
+Tabasco,2023,SEP,21.82,9
+Tamaulipas,2023,SEP,19.9,9
+Tlaxcala,2023,SEP,21.89,9
+Veracruz de Ignacio de la Llave,2023,SEP,22.15,9
+Yucatán,2023,SEP,22.71,9
+Zacatecas,2023,SEP,22.53,9
+Nacional,2023,OCT,22.29,10
+Aguascalientes,2023,OCT,22.4,10
+Baja California,2023,OCT,21.5,10
+Baja California Sur,2023,OCT,23.47,10
+Campeche,2023,OCT,23.3,10
+Chiapas,2023,OCT,22.35,10
+Chihuahua,2023,OCT,20.97,10
+Ciudad de México,2023,OCT,22.84,10
+Coahuila de Zaragoza,2023,OCT,21.8,10
+Colima,2023,OCT,22.54,10
+Durango,2023,OCT,23.05,10
+Guanajuato,2023,OCT,22.23,10
+Guerrero,2023,OCT,23.57,10
+Hidalgo,2023,OCT,21.76,10
+Jalisco,2023,OCT,22.97,10
+Michoacán de Ocampo,2023,OCT,22.82,10
+Morelos,2023,OCT,22.07,10
+México,2023,OCT,22.23,10
+Nayarit,2023,OCT,23.1,10
+Nuevo León,2023,OCT,23.36,10
+Oaxaca,2023,OCT,23.26,10
+Puebla,2023,OCT,21.87,10
+Querétaro,2023,OCT,21.67,10
+Quintana Roo,2023,OCT,23.78,10
+San Luis Potosí,2023,OCT,22.46,10
+Sinaloa,2023,OCT,22.86,10
+Sonora,2023,OCT,22.6,10
+Tabasco,2023,OCT,21.9,10
+Tamaulipas,2023,OCT,20.03,10
+Tlaxcala,2023,OCT,21.79,10
+Veracruz de Ignacio de la Llave,2023,OCT,21.98,10
+Yucatán,2023,OCT,22.64,10
+Zacatecas,2023,OCT,22.54,10
+Nacional,2023,NOV,22.23,11
+Aguascalientes,2023,NOV,22.44,11
+Baja California,2023,NOV,21.37,11
+Baja California Sur,2023,NOV,23.51,11
+Campeche,2023,NOV,23.33,11
+Chiapas,2023,NOV,22.38,11
+Chihuahua,2023,NOV,20.84,11
+Ciudad de México,2023,NOV,22.71,11
+Coahuila de Zaragoza,2023,NOV,21.95,11
+Colima,2023,NOV,22.62,11
+Durango,2023,NOV,22.89,11
+Guanajuato,2023,NOV,22.23,11
+Guerrero,2023,NOV,23.6,11
+Hidalgo,2023,NOV,21.78,11
+Jalisco,2023,NOV,22.84,11
+Michoacán de Ocampo,2023,NOV,22.83,11
+Morelos,2023,NOV,22.11,11
+México,2023,NOV,22.09,11
+Nayarit,2023,NOV,23.1,11
+Nuevo León,2023,NOV,23.04,11
+Oaxaca,2023,NOV,23.35,11
+Puebla,2023,NOV,21.91,11
+Querétaro,2023,NOV,21.73,11
+Quintana Roo,2023,NOV,23.69,11
+San Luis Potosí,2023,NOV,22.45,11
+Sinaloa,2023,NOV,22.61,11
+Sonora,2023,NOV,22.41,11
+Tabasco,2023,NOV,21.87,11
+Tamaulipas,2023,NOV,20.03,11
+Tlaxcala,2023,NOV,21.75,11
+Veracruz de Ignacio de la Llave,2023,NOV,21.98,11
+Yucatán,2023,NOV,22.57,11
+Zacatecas,2023,NOV,22.69,11
+Nacional,2023,DIC,22.09,12
+Aguascalientes,2023,DIC,22.43,12
+Baja California,2023,DIC,21.35,12
+Baja California Sur,2023,DIC,23.32,12
+Campeche,2023,DIC,23.15,12
+Chiapas,2023,DIC,22.2,12
+Chihuahua,2023,DIC,20.0,12
+Ciudad de México,2023,DIC,22.61,12
+Coahuila de Zaragoza,2023,DIC,22.1,12
+Colima,2023,DIC,22.47,12
+Durango,2023,DIC,22.61,12
+Guanajuato,2023,DIC,22.33,12
+Guerrero,2023,DIC,23.54,12
+Hidalgo,2023,DIC,21.73,12
+Jalisco,2023,DIC,22.69,12
+Michoacán de Ocampo,2023,DIC,22.74,12
+Morelos,2023,DIC,22.02,12
+México,2023,DIC,21.93,12
+Nayarit,2023,DIC,22.53,12
+Nuevo León,2023,DIC,23.23,12
+Oaxaca,2023,DIC,23.37,12
+Puebla,2023,DIC,21.77,12
+Querétaro,2023,DIC,21.7,12
+Quintana Roo,2023,DIC,23.61,12
+San Luis Potosí,2023,DIC,22.43,12
+Sinaloa,2023,DIC,22.37,12
+Sonora,2023,DIC,21.75,12
+Tabasco,2023,DIC,21.81,12
+Tamaulipas,2023,DIC,19.45,12
+Tlaxcala,2023,DIC,21.71,12
+Veracruz de Ignacio de la Llave,2023,DIC,21.92,12
+Yucatán,2023,DIC,22.29,12
+Zacatecas,2023,DIC,22.55,12
+Nacional,2024,ENE,22.32,1
+Aguascalientes,2024,ENE,22.58,1
+Baja California,2024,ENE,21.6,1
+Baja California Sur,2024,ENE,23.51,1
+Campeche,2024,ENE,23.17,1
+Chiapas,2024,ENE,22.39,1
+Chihuahua,2024,ENE,20.24,1
+Ciudad de México,2024,ENE,22.65,1
+Coahuila de Zaragoza,2024,ENE,22.09,1
+Colima,2024,ENE,22.71,1
+Durango,2024,ENE,22.66,1
+Guanajuato,2024,ENE,22.55,1
+Guerrero,2024,ENE,23.82,1
+Hidalgo,2024,ENE,22.11,1
+Jalisco,2024,ENE,23.0,1
+Michoacán de Ocampo,2024,ENE,23.05,1
+Morelos,2024,ENE,22.33,1
+México,2024,ENE,22.08,1
+Nayarit,2024,ENE,23.24,1
+Nuevo León,2024,ENE,23.23,1
+Oaxaca,2024,ENE,23.42,1
+Puebla,2024,ENE,22.05,1
+Querétaro,2024,ENE,21.98,1
+Quintana Roo,2024,ENE,23.78,1
+San Luis Potosí,2024,ENE,22.65,1
+Sinaloa,2024,ENE,22.98,1
+Sonora,2024,ENE,21.95,1
+Tabasco,2024,ENE,21.98,1
+Tamaulipas,2024,ENE,19.82,1
+Tlaxcala,2024,ENE,22.0,1
+Veracruz de Ignacio de la Llave,2024,ENE,22.14,1
+Yucatán,2024,ENE,23.0,1
+Zacatecas,2024,ENE,22.71,1
+Nacional,2024,FEB,23.01,2
+Aguascalientes,2024,FEB,23.11,2
+Baja California,2024,FEB,22.36,2
+Baja California Sur,2024,FEB,24.08,2
+Campeche,2024,FEB,23.44,2
+Chiapas,2024,FEB,22.98,2
+Chihuahua,2024,FEB,20.99,2
+Ciudad de México,2024,FEB,23.12,2
+Coahuila de Zaragoza,2024,FEB,22.66,2
+Colima,2024,FEB,23.41,2
+Durango,2024,FEB,23.23,2
+Guanajuato,2024,FEB,23.06,2
+Guerrero,2024,FEB,24.32,2
+Hidalgo,2024,FEB,22.97,2
+Jalisco,2024,FEB,23.76,2
+Michoacán de Ocampo,2024,FEB,23.94,2
+Morelos,2024,FEB,23.21,2
+México,2024,FEB,22.78,2
+Nayarit,2024,FEB,23.87,2
+Nuevo León,2024,FEB,23.99,2
+Oaxaca,2024,FEB,23.86,2
+Puebla,2024,FEB,22.82,2
+Querétaro,2024,FEB,22.61,2
+Quintana Roo,2024,FEB,24.51,2
+San Luis Potosí,2024,FEB,23.29,2
+Sinaloa,2024,FEB,23.49,2
+Sonora,2024,FEB,23.08,2
+Tabasco,2024,FEB,22.63,2
+Tamaulipas,2024,FEB,20.66,2
+Tlaxcala,2024,FEB,22.7,2
+Veracruz de Ignacio de la Llave,2024,FEB,22.86,2
+Yucatán,2024,FEB,23.64,2
+Zacatecas,2024,FEB,23.13,2
+Nacional,2024,MAR,23.19,3
+Aguascalientes,2024,MAR,23.3,3
+Baja California,2024,MAR,22.74,3
+Baja California Sur,2024,MAR,24.51,3
+Campeche,2024,MAR,23.68,3
+Chiapas,2024,MAR,23.2,3
+Chihuahua,2024,MAR,21.15,3
+Ciudad de México,2024,MAR,23.22,3
+Coahuila de Zaragoza,2024,MAR,22.68,3
+Colima,2024,MAR,23.75,3
+Durango,2024,MAR,23.19,3
+Guanajuato,2024,MAR,23.21,3
+Guerrero,2024,MAR,24.34,3
+Hidalgo,2024,MAR,23.06,3
+Jalisco,2024,MAR,23.95,3
+Michoacán de Ocampo,2024,MAR,24.05,3
+Morelos,2024,MAR,23.34,3
+México,2024,MAR,22.92,3
+Nayarit,2024,MAR,24.41,3
+Nuevo León,2024,MAR,24.08,3
+Oaxaca,2024,MAR,24.1,3
+Puebla,2024,MAR,22.94,3
+Querétaro,2024,MAR,22.75,3
+Quintana Roo,2024,MAR,24.6,3
+San Luis Potosí,2024,MAR,23.5,3
+Sinaloa,2024,MAR,23.74,3
+Sonora,2024,MAR,23.32,3
+Tabasco,2024,MAR,22.72,3
+Tamaulipas,2024,MAR,20.79,3
+Tlaxcala,2024,MAR,22.74,3
+Veracruz de Ignacio de la Llave,2024,MAR,23.1,3
+Yucatán,2024,MAR,23.55,3
+Zacatecas,2024,MAR,23.27,3
+Nacional,2024,ABR,23.43,4
+Aguascalientes,2024,ABR,23.39,4
+Baja California,2024,ABR,22.9,4
+Baja California Sur,2024,ABR,24.79,4
+Campeche,2024,ABR,24.01,4
+Chiapas,2024,ABR,23.24,4
+Chihuahua,2024,ABR,21.51,4
+Ciudad de México,2024,ABR,23.52,4
+Coahuila de Zaragoza,2024,ABR,22.91,4
+Colima,2024,ABR,24.04,4
+Durango,2024,ABR,23.47,4
+Guanajuato,2024,ABR,23.38,4
+Guerrero,2024,ABR,24.57,4
+Hidalgo,2024,ABR,23.19,4
+Jalisco,2024,ABR,24.16,4
+Michoacán de Ocampo,2024,ABR,24.15,4
+Morelos,2024,ABR,23.4,4
+México,2024,ABR,23.14,4
+Nayarit,2024,ABR,24.62,4
+Nuevo León,2024,ABR,24.36,4
+Oaxaca,2024,ABR,24.27,4
+Puebla,2024,ABR,23.05,4
+Querétaro,2024,ABR,22.89,4
+Quintana Roo,2024,ABR,25.01,4
+San Luis Potosí,2024,ABR,23.68,4
+Sinaloa,2024,ABR,24.19,4
+Sonora,2024,ABR,23.45,4
+Tabasco,2024,ABR,22.84,4
+Tamaulipas,2024,ABR,21.08,4
+Tlaxcala,2024,ABR,22.83,4
+Veracruz de Ignacio de la Llave,2024,ABR,23.19,4
+Yucatán,2024,ABR,24.17,4
+Zacatecas,2024,ABR,23.49,4
+Nacional,2024,MAY,23.49,5
+Aguascalientes,2024,MAY,23.53,5
+Baja California,2024,MAY,23.01,5
+Baja California Sur,2024,MAY,24.86,5
+Campeche,2024,MAY,24.15,5
+Chiapas,2024,MAY,23.33,5
+Chihuahua,2024,MAY,21.07,5
+Ciudad de México,2024,MAY,23.84,5
+Coahuila de Zaragoza,2024,MAY,23.22,5
+Colima,2024,MAY,24.12,5
+Durango,2024,MAY,23.64,5
+Guanajuato,2024,MAY,23.47,5
+Guerrero,2024,MAY,24.57,5
+Hidalgo,2024,MAY,23.25,5
+Jalisco,2024,MAY,24.23,5
+Michoacán de Ocampo,2024,MAY,24.16,5
+Morelos,2024,MAY,23.48,5
+México,2024,MAY,23.39,5
+Nayarit,2024,MAY,24.5,5
+Nuevo León,2024,MAY,24.54,5
+Oaxaca,2024,MAY,24.33,5
+Puebla,2024,MAY,23.13,5
+Querétaro,2024,MAY,22.98,5
+Quintana Roo,2024,MAY,25.12,5
+San Luis Potosí,2024,MAY,23.75,5
+Sinaloa,2024,MAY,24.36,5
+Sonora,2024,MAY,23.27,5
+Tabasco,2024,MAY,22.93,5
+Tamaulipas,2024,MAY,21.16,5
+Tlaxcala,2024,MAY,22.95,5
+Veracruz de Ignacio de la Llave,2024,MAY,23.25,5
+Yucatán,2024,MAY,24.09,5
+Zacatecas,2024,MAY,23.67,5
+Nacional,2024,JUN,23.56,6
+Aguascalientes,2024,JUN,23.63,6
+Baja California,2024,JUN,23.19,6
+Baja California Sur,2024,JUN,25.01,6
+Campeche,2024,JUN,24.13,6
+Chiapas,2024,JUN,23.82,6
+Chihuahua,2024,JUN,21.17,6
+Ciudad de México,2024,JUN,23.89,6
+Coahuila de Zaragoza,2024,JUN,23.28,6
+Colima,2024,JUN,24.15,6
+Durango,2024,JUN,23.71,6
+Guanajuato,2024,JUN,23.59,6
+Guerrero,2024,JUN,24.68,6
+Hidalgo,2024,JUN,23.41,6
+Jalisco,2024,JUN,24.43,6
+Michoacán de Ocampo,2024,JUN,24.33,6
+Morelos,2024,JUN,23.56,6
+México,2024,JUN,23.44,6
+Nayarit,2024,JUN,24.61,6
+Nuevo León,2024,JUN,24.73,6
+Oaxaca,2024,JUN,24.42,6
+Puebla,2024,JUN,23.22,6
+Querétaro,2024,JUN,23.2,6
+Quintana Roo,2024,JUN,25.02,6
+San Luis Potosí,2024,JUN,23.86,6
+Sinaloa,2024,JUN,24.38,6
+Sonora,2024,JUN,23.43,6
+Tabasco,2024,JUN,23.07,6
+Tamaulipas,2024,JUN,21.07,6
+Tlaxcala,2024,JUN,23.1,6
+Veracruz de Ignacio de la Llave,2024,JUN,23.25,6
+Yucatán,2024,JUN,23.62,6
+Zacatecas,2024,JUN,23.85,6
+Nacional,2024,JUL,23.91,7
+Aguascalientes,2024,JUL,23.98,7
+Baja California,2024,JUL,23.38,7
+Baja California Sur,2024,JUL,25.22,7
+Campeche,2024,JUL,24.34,7
+Chiapas,2024,JUL,23.96,7
+Chihuahua,2024,JUL,21.72,7
+Ciudad de México,2024,JUL,24.1,7
+Coahuila de Zaragoza,2024,JUL,23.69,7
+Colima,2024,JUL,24.42,7
+Durango,2024,JUL,24.17,7
+Guanajuato,2024,JUL,24.03,7
+Guerrero,2024,JUL,24.89,7
+Hidalgo,2024,JUL,23.64,7
+Jalisco,2024,JUL,24.77,7
+Michoacán de Ocampo,2024,JUL,24.59,7
+Morelos,2024,JUL,23.84,7
+México,2024,JUL,23.7,7
+Nayarit,2024,JUL,25.03,7
+Nuevo León,2024,JUL,24.98,7
+Oaxaca,2024,JUL,24.6,7
+Puebla,2024,JUL,23.6,7
+Querétaro,2024,JUL,23.58,7
+Quintana Roo,2024,JUL,25.1,7
+San Luis Potosí,2024,JUL,24.09,7
+Sinaloa,2024,JUL,24.71,7
+Sonora,2024,JUL,24.11,7
+Tabasco,2024,JUL,23.33,7
+Tamaulipas,2024,JUL,21.27,7
+Tlaxcala,2024,JUL,23.44,7
+Veracruz de Ignacio de la Llave,2024,JUL,23.67,7
+Yucatán,2024,JUL,23.94,7
+Zacatecas,2024,JUL,24.19,7
+Nacional,2024,AGO,24.05,8
+Aguascalientes,2024,AGO,24.28,8
+Baja California,2024,AGO,23.53,8
+Baja California Sur,2024,AGO,25.49,8
+Campeche,2024,AGO,24.5,8
+Chiapas,2024,AGO,23.99,8
+Chihuahua,2024,AGO,21.81,8
+Ciudad de México,2024,AGO,24.19,8
+Coahuila de Zaragoza,2024,AGO,23.91,8
+Colima,2024,AGO,24.61,8
+Durango,2024,AGO,24.41,8
+Guanajuato,2024,AGO,24.32,8
+Guerrero,2024,AGO,25.0,8
+Hidalgo,2024,AGO,23.83,8
+Jalisco,2024,AGO,24.8,8
+Michoacán de Ocampo,2024,AGO,24.79,8
+Morelos,2024,AGO,23.98,8
+México,2024,AGO,23.85,8
+Nayarit,2024,AGO,25.03,8
+Nuevo León,2024,AGO,25.16,8
+Oaxaca,2024,AGO,24.8,8
+Puebla,2024,AGO,23.8,8
+Querétaro,2024,AGO,23.79,8
+Quintana Roo,2024,AGO,25.31,8
+San Luis Potosí,2024,AGO,24.25,8
+Sinaloa,2024,AGO,24.84,8
+Sonora,2024,AGO,24.07,8
+Tabasco,2024,AGO,23.44,8
+Tamaulipas,2024,AGO,21.52,8
+Tlaxcala,2024,AGO,23.64,8
+Veracruz de Ignacio de la Llave,2024,AGO,23.81,8
+Yucatán,2024,AGO,23.86,8
+Zacatecas,2024,AGO,24.39,8
+Nacional,2024,SEP,23.92,9
+Aguascalientes,2024,SEP,24.36,9
+Baja California,2024,SEP,23.53,9
+Baja California Sur,2024,SEP,25.64,9
+Campeche,2024,SEP,24.59,9
+Chiapas,2024,SEP,23.9,9
+Chihuahua,2024,SEP,21.45,9
+Ciudad de México,2024,SEP,23.95,9
+Coahuila de Zaragoza,2024,SEP,23.75,9
+Colima,2024,SEP,24.55,9
+Durango,2024,SEP,24.38,9
+Guanajuato,2024,SEP,24.27,9
+Guerrero,2024,SEP,24.76,9
+Hidalgo,2024,SEP,23.64,9
+Jalisco,2024,SEP,24.65,9
+Michoacán de Ocampo,2024,SEP,24.64,9
+Morelos,2024,SEP,23.82,9
+México,2024,SEP,23.65,9
+Nayarit,2024,SEP,24.67,9
+Nuevo León,2024,SEP,24.88,9
+Oaxaca,2024,SEP,24.78,9
+Puebla,2024,SEP,23.61,9
+Querétaro,2024,SEP,23.57,9
+Quintana Roo,2024,SEP,25.24,9
+San Luis Potosí,2024,SEP,24.26,9
+Sinaloa,2024,SEP,24.96,9
+Sonora,2024,SEP,23.89,9
+Tabasco,2024,SEP,23.44,9
+Tamaulipas,2024,SEP,21.1,9
+Tlaxcala,2024,SEP,23.52,9
+Veracruz de Ignacio de la Llave,2024,SEP,23.8,9
+Yucatán,2024,SEP,24.4,9
+Zacatecas,2024,SEP,24.49,9
+Nacional,2024,OCT,23.85,10
+Aguascalientes,2024,OCT,24.38,10
+Baja California,2024,OCT,23.45,10
+Baja California Sur,2024,OCT,25.47,10
+Campeche,2024,OCT,24.56,10
+Chiapas,2024,OCT,23.99,10
+Chihuahua,2024,OCT,21.45,10
+Ciudad de México,2024,OCT,23.97,10
+Coahuila de Zaragoza,2024,OCT,23.64,10
+Colima,2024,OCT,24.5,10
+Durango,2024,OCT,24.47,10
+Guanajuato,2024,OCT,24.26,10
+Guerrero,2024,OCT,24.93,10
+Hidalgo,2024,OCT,23.73,10
+Jalisco,2024,OCT,24.49,10
+Michoacán de Ocampo,2024,OCT,24.73,10
+Morelos,2024,OCT,23.89,10
+México,2024,OCT,23.61,10
+Nayarit,2024,OCT,24.83,10
+Nuevo León,2024,OCT,24.59,10
+Oaxaca,2024,OCT,24.79,10
+Puebla,2024,OCT,23.62,10
+Querétaro,2024,OCT,23.6,10
+Quintana Roo,2024,OCT,25.15,10
+San Luis Potosí,2024,OCT,24.34,10
+Sinaloa,2024,OCT,24.4,10
+Sonora,2024,OCT,23.32,10
+Tabasco,2024,OCT,23.34,10
+Tamaulipas,2024,OCT,21.1,10
+Tlaxcala,2024,OCT,23.54,10
+Veracruz de Ignacio de la Llave,2024,OCT,23.69,10
+Yucatán,2024,OCT,24.38,10
+Zacatecas,2024,OCT,24.61,10
+Nacional,2024,NOV,23.9,11
+Aguascalientes,2024,NOV,24.37,11
+Baja California,2024,NOV,23.51,11
+Baja California Sur,2024,NOV,25.45,11
+Campeche,2024,NOV,24.47,11
+Chiapas,2024,NOV,24.05,11
+Chihuahua,2024,NOV,21.44,11
+Ciudad de México,2024,NOV,23.9,11
+Coahuila de Zaragoza,2024,NOV,23.79,11
+Colima,2024,NOV,24.57,11
+Durango,2024,NOV,24.89,11
+Guanajuato,2024,NOV,24.39,11
+Guerrero,2024,NOV,24.97,11
+Hidalgo,2024,NOV,23.79,11
+Jalisco,2024,NOV,24.25,11
+Michoacán de Ocampo,2024,NOV,24.82,11
+Morelos,2024,NOV,23.95,11
+México,2024,NOV,23.56,11
+Nayarit,2024,NOV,25.11,11
+Nuevo León,2024,NOV,24.53,11
+Oaxaca,2024,NOV,24.85,11
+Puebla,2024,NOV,23.74,11
+Querétaro,2024,NOV,23.72,11
+Quintana Roo,2024,NOV,25.13,11
+San Luis Potosí,2024,NOV,24.42,11
+Sinaloa,2024,NOV,24.56,11
+Sonora,2024,NOV,23.48,11
+Tabasco,2024,NOV,23.36,11
+Tamaulipas,2024,NOV,21.45,11
+Tlaxcala,2024,NOV,23.6,11
+Veracruz de Ignacio de la Llave,2024,NOV,23.64,11
+Yucatán,2024,NOV,24.23,11
+Zacatecas,2024,NOV,24.69,11
+Nacional,2024,DIC,23.98,12
+Aguascalientes,2024,DIC,24.39,12
+Baja California,2024,DIC,23.61,12
+Baja California Sur,2024,DIC,25.4,12
+Campeche,2024,DIC,24.56,12
+Chiapas,2024,DIC,24.1,12
+Chihuahua,2024,DIC,21.98,12
+Ciudad de México,2024,DIC,24.0,12
+Coahuila de Zaragoza,2024,DIC,24.03,12
+Colima,2024,DIC,24.52,12
+Durango,2024,DIC,25.06,12
+Guanajuato,2024,DIC,24.42,12
+Guerrero,2024,DIC,24.94,12
+Hidalgo,2024,DIC,23.78,12
+Jalisco,2024,DIC,24.17,12
+Michoacán de Ocampo,2024,DIC,24.86,12
+Morelos,2024,DIC,23.99,12
+México,2024,DIC,23.64,12
+Nayarit,2024,DIC,25.17,12
+Nuevo León,2024,DIC,24.59,12
+Oaxaca,2024,DIC,24.95,12
+Puebla,2024,DIC,23.69,12
+Querétaro,2024,DIC,23.62,12
+Quintana Roo,2024,DIC,25.08,12
+San Luis Potosí,2024,DIC,24.38,12
+Sinaloa,2024,DIC,24.94,12
+Sonora,2024,DIC,23.88,12
+Tabasco,2024,DIC,23.42,12
+Tamaulipas,2024,DIC,21.45,12
+Tlaxcala,2024,DIC,23.57,12
+Veracruz de Ignacio de la Llave,2024,DIC,23.65,12
+Yucatán,2024,DIC,23.79,12
+Zacatecas,2024,DIC,24.79,12
+Nacional,2025,ENE,24.28,1
+Aguascalientes,2025,ENE,24.68,1
+Baja California,2025,ENE,23.87,1
+Baja California Sur,2025,ENE,25.42,1
+Campeche,2025,ENE,24.68,1
+Chiapas,2025,ENE,24.28,1
+Chihuahua,2025,ENE,22.33,1
+Ciudad de México,2025,ENE,24.38,1
+Coahuila de Zaragoza,2025,ENE,24.44,1
+Colima,2025,ENE,24.79,1
+Durango,2025,ENE,25.34,1
+Guanajuato,2025,ENE,24.7,1
+Guerrero,2025,ENE,25.22,1
+Hidalgo,2025,ENE,24.17,1
+Jalisco,2025,ENE,24.69,1
+Michoacán de Ocampo,2025,ENE,25.12,1
+Morelos,2025,ENE,24.32,1
+México,2025,ENE,24.11,1
+Nayarit,2025,ENE,25.55,1
+Nuevo León,2025,ENE,24.74,1
+Oaxaca,2025,ENE,25.13,1
+Puebla,2025,ENE,24.01,1
+Querétaro,2025,ENE,23.98,1
+Quintana Roo,2025,ENE,25.56,1
+San Luis Potosí,2025,ENE,24.72,1
+Sinaloa,2025,ENE,25.06,1
+Sonora,2025,ENE,23.91,1
+Tabasco,2025,ENE,23.72,1
+Tamaulipas,2025,ENE,21.98,1
+Tlaxcala,2025,ENE,23.88,1
+Veracruz de Ignacio de la Llave,2025,ENE,24.1,1
+Yucatán,2025,ENE,24.65,1
+Zacatecas,2025,ENE,25.05,1
+Nacional,2025,FEB,24.21,2
+Aguascalientes,2025,FEB,24.7,2
+Baja California,2025,FEB,23.73,2
+Baja California Sur,2025,FEB,25.3,2
+Campeche,2025,FEB,24.64,2
+Chiapas,2025,FEB,24.11,2
+Chihuahua,2025,FEB,22.41,2
+Ciudad de México,2025,FEB,24.26,2
+Coahuila de Zaragoza,2025,FEB,24.22,2
+Colima,2025,FEB,24.65,2
+Durango,2025,FEB,25.0,2
+Guanajuato,2025,FEB,24.69,2
+Guerrero,2025,FEB,25.16,2
+Hidalgo,2025,FEB,24.03,2
+Jalisco,2025,FEB,24.54,2
+Michoacán de Ocampo,2025,FEB,25.02,2
+Morelos,2025,FEB,24.23,2
+México,2025,FEB,24.01,2
+Nayarit,2025,FEB,25.36,2
+Nuevo León,2025,FEB,24.66,2
+Oaxaca,2025,FEB,25.07,2
+Puebla,2025,FEB,23.87,2
+Querétaro,2025,FEB,23.92,2
+Quintana Roo,2025,FEB,25.57,2
+San Luis Potosí,2025,FEB,24.61,2
+Sinaloa,2025,FEB,24.76,2
+Sonora,2025,FEB,24.15,2
+Tabasco,2025,FEB,23.75,2
+Tamaulipas,2025,FEB,21.97,2
+Tlaxcala,2025,FEB,23.68,2
+Veracruz de Ignacio de la Llave,2025,FEB,24.05,2
+Yucatán,2025,FEB,24.44,2
+Zacatecas,2025,FEB,25.05,2
+Nacional,2025,MAR,23.78,3
+Aguascalientes,2025,MAR,24.07,3
+Baja California,2025,MAR,23.35,3
+Baja California Sur,2025,MAR,24.45,3
+Campeche,2025,MAR,24.05,3
+Chiapas,2025,MAR,23.93,3
+Chihuahua,2025,MAR,22.39,3
+Ciudad de México,2025,MAR,23.86,3
+Coahuila de Zaragoza,2025,MAR,23.67,3
+Colima,2025,MAR,23.98,3
+Durango,2025,MAR,24.02,3
+Guanajuato,2025,MAR,24.05,3
+Guerrero,2025,MAR,24.07,3
+Hidalgo,2025,MAR,23.76,3
+Jalisco,2025,MAR,24.04,3
+Michoacán de Ocampo,2025,MAR,24.07,3
+Morelos,2025,MAR,23.85,3
+México,2025,MAR,23.76,3
+Nayarit,2025,MAR,24.21,3
+Nuevo León,2025,MAR,24.17,3
+Oaxaca,2025,MAR,24.17,3
+Puebla,2025,MAR,23.7,3
+Querétaro,2025,MAR,23.66,3
+Quintana Roo,2025,MAR,24.85,3
+San Luis Potosí,2025,MAR,24.08,3
+Sinaloa,2025,MAR,23.94,3
+Sonora,2025,MAR,23.44,3
+Tabasco,2025,MAR,23.8,3
+Tamaulipas,2025,MAR,21.98,3
+Tlaxcala,2025,MAR,23.55,3
+Veracruz de Ignacio de la Llave,2025,MAR,23.8,3
+Yucatán,2025,MAR,24.05,3
+Zacatecas,2025,MAR,24.18,3
+Nacional,2025,ABR,23.72,4
+Aguascalientes,2025,ABR,23.93,4
+Baja California,2025,ABR,23.22,4
+Baja California Sur,2025,ABR,24.29,4
+Campeche,2025,ABR,23.98,4
+Chiapas,2025,ABR,23.76,4
+Chihuahua,2025,ABR,22.42,4
+Ciudad de México,2025,ABR,23.83,4
+Coahuila de Zaragoza,2025,ABR,23.61,4
+Colima,2025,ABR,23.9,4
+Durango,2025,ABR,23.95,4
+Guanajuato,2025,ABR,23.86,4
+Guerrero,2025,ABR,23.92,4
+Hidalgo,2025,ABR,23.68,4
+Jalisco,2025,ABR,23.93,4
+Michoacán de Ocampo,2025,ABR,23.93,4
+Morelos,2025,ABR,23.83,4
+México,2025,ABR,23.71,4
+Nayarit,2025,ABR,24.02,4
+Nuevo León,2025,ABR,23.91,4
+Oaxaca,2025,ABR,24.06,4
+Puebla,2025,ABR,23.65,4
+Querétaro,2025,ABR,23.61,4
+Quintana Roo,2025,ABR,24.57,4
+San Luis Potosí,2025,ABR,23.98,4
+Sinaloa,2025,ABR,23.87,4
+Sonora,2025,ABR,23.18,4
+Tabasco,2025,ABR,23.8,4
+Tamaulipas,2025,ABR,21.83,4
+Tlaxcala,2025,ABR,23.52,4
+Veracruz de Ignacio de la Llave,2025,ABR,23.79,4
+Yucatán,2025,ABR,23.98,4
+Zacatecas,2025,ABR,24.02,4

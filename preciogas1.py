@@ -1,7 +1,4 @@
-import sys
-# Instalar scikit-learn si no está presente
-!{sys.executable} -m pip install scikit-learn --upgrade
-
+import numpy as np
 import streamlit as st
 import pandas as pd
 from sklearn.linear_model import LinearRegression

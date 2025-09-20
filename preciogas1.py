@@ -1,62 +1,46 @@
-import numpy as np
-import streamlit as st
 import pandas as pd
+import streamlit as st
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-# ------------------------------
-# Imagen y título
-# ------------------------------
-st.set_page_config(page_title="Predicción Gasolina", layout="centered")
-st.image("precio_gas.jpg", use_column_width=True)
-st.write('''# Predicción del precio de la gasolina regular ⛽''')
+# Título y imagen
+st.write("# Predicción del precio de gasolina por estado")
+st.image("gasolina.jpg", caption="Precio estimado de gasolina por estado")  # Asegúrate de tener esta imagen en la misma carpeta
 
-# ------------------------------
-# Entradas del usuario
-# ------------------------------
-st.header('Datos para predicción')
-
+# Función para entrada de datos
 def user_input_features():
-    anio = st.number_input('Año:', min_value=2020, max_value=2030, value=2025, step=1)
-    mes = st.selectbox('Mes:', 
-                       ["Enero","Febrero","Marzo","Abril","Mayo","Junio",
-                        "Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"])
-    
-    # Cargar dataset temporalmente para obtener lista de entidades
-    dataset = pd.read_csv('dataset_limpio.csv')
-    entidad = st.selectbox('Entidad Federativa:', dataset['ENTIDAD'].unique())
-    
-    meses = {
-        "Enero":1, "Febrero":2, "Marzo":3, "Abril":4, "Mayo":5, "Junio":6,
-        "Julio":7, "Agosto":8, "Septiembre":9, "Octubre":10, "Noviembre":11, "Diciembre":12
-    }
-    mes_num = meses[mes]
-    
-    return pd.DataFrame({'Año':[anio], 'Mes_num':[mes_num], 'ENTIDAD':[entidad]})
+    Estado = st.selectbox('Estado:', [
+        'Aguascalientes','Baja California','Baja California Sur','Campeche','Coahuila',
+        'Colima','Chiapas','Chihuahua','Ciudad de México','Durango','Guanajuato',
+        'Guerrero','Hidalgo','Jalisco','México','Michoacán','Morelos','Nayarit',
+        'Nuevo León','Oaxaca','Puebla','Querétaro','Quintana Roo','San Luis Potosí',
+        'Sinaloa','Sonora','Tabasco','Tamaulipas','Tlaxcala','Veracruz','Yucatán','Zacatecas'
+    ])
+    Mes = st.number_input('Mes (1-12):', min_value=1, max_value=12, value=1, step=1)
+    Año = st.number_input('Año:', min_value=2000, max_value=2100, value=2025, step=1)
+
+    data = {'Estado': Estado, 'Mes': Mes, 'Año': Año}
+    features = pd.DataFrame(data, index=[0])
+    return features
 
 df = user_input_features()
 
-# ------------------------------
-# Cargar dataset y entrenar modelo
-# ------------------------------
-dataset = pd.read_csv('dataset_limpio.csv')
-dataset = dataset.dropna(subset=['Precio'])
+# Cargar dataset
+gasolina = pd.read_csv('Gasolina.csv', encoding='latin-1')
+X = pd.get_dummies(gasolina[['Estado', 'Mes', 'Año']], drop_first=True)
+y = gasolina['Precio']
 
-X = pd.get_dummies(dataset[['Año','Mes_num','ENTIDAD']], drop_first=True)
-y = dataset['Precio']
+# Convertir inputs del usuario a mismas columnas que X
+df_encoded = pd.get_dummies(df, drop_first=True)
+df_encoded = df_encoded.reindex(columns=X.columns, fill_value=0)
 
-from sklearn.model_selection import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-
+# Entrenamiento del modelo
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
 model = LinearRegression()
 model.fit(X_train, y_train)
 
-# ------------------------------
 # Predicción
-# ------------------------------
-input_X = pd.get_dummies(df, columns=['ENTIDAD'], drop_first=True)
-input_X = input_X.reindex(columns=X.columns, fill_value=0)
+prediccion = model.predict(df_encoded)
 
-prediccion = model.predict(input_X)[0]
-
-st.subheader('Precio estimado')
-st.write(f'💰 El precio estimado de la gasolina regular es: {prediccion:.2f} MXN')
+st.subheader('Precio estimado de gasolina')
+st.write('El precio estimado es:', round(float(prediccion), 2))
